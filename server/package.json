@@ -1,0 +1,16 @@
+{
+  "name": "toplas-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Toplaş MVP backend — Express + in-memory store, seeded from the app data.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}

@@ -1,0 +1,4208 @@
+{
+  "user": {
+    "id": "me",
+    "name": "Alex",
+    "avatar": "https://i.pravatar.cc/240?img=8",
+    "city": {
+      "en": "Baku, Azerbaijan",
+      "az": "Bakı, Azərbaycan"
+    },
+    "bio": {
+      "en": "Product-minded developer. Into startups, design, and meeting curious people over coffee.",
+      "az": "Məhsul düşüncəli developer. Startaplar, dizayn və maraqlı insanlarla qəhvə üstündə tanışlıq həvəskarı."
+    },
+    "interests": [
+      "technology",
+      "startups",
+      "networking",
+      "music",
+      "languageExchange"
+    ],
+    "skills": [
+      "React Native",
+      "TypeScript",
+      "UI Design",
+      "Public Speaking"
+    ],
+    "languages": [
+      "Azerbaijani",
+      "English",
+      "Turkish"
+    ],
+    "connections": 148,
+    "isOrganizer": true
+  },
+  "attendees": [
+    {
+      "id": "u1",
+      "name": "Kamran",
+      "avatar": "https://i.pravatar.cc/240?img=3",
+      "mutualInterests": 4
+    },
+    {
+      "id": "u2",
+      "name": "Səbinə",
+      "avatar": "https://i.pravatar.cc/240?img=24",
+      "mutualInterests": 3
+    },
+    {
+      "id": "u3",
+      "name": "Elvin",
+      "avatar": "https://i.pravatar.cc/240?img=52",
+      "mutualInterests": 2
+    },
+    {
+      "id": "u4",
+      "name": "Günel",
+      "avatar": "https://i.pravatar.cc/240?img=29",
+      "mutualInterests": 5
+    },
+    {
+      "id": "u5",
+      "name": "Murad",
+      "avatar": "https://i.pravatar.cc/240?img=60",
+      "mutualInterests": 1
+    },
+    {
+      "id": "u6",
+      "name": "Aytən",
+      "avatar": "https://i.pravatar.cc/240?img=45",
+      "mutualInterests": 3
+    },
+    {
+      "id": "u7",
+      "name": "Rəşad",
+      "avatar": "https://i.pravatar.cc/240?img=57",
+      "mutualInterests": 2
+    },
+    {
+      "id": "u8",
+      "name": "Lamiyə",
+      "avatar": "https://i.pravatar.cc/240?img=41",
+      "mutualInterests": 4
+    }
+  ],
+  "events": [
+    {
+      "id": "ev-tech-summit",
+      "title": {
+        "en": "Baku Tech Summit",
+        "az": "Bakı Texnologiya Sammiti"
+      },
+      "summary": {
+        "en": "Meet the people building the future of technology.",
+        "az": "Texnologiyanın gələcəyini quran insanlarla tanış ol."
+      },
+      "description": {
+        "en": "A full-day gathering of engineers, founders, and designers from across the region. Keynotes, demos, and deep-dive tracks on AI, product, and infrastructure — plus plenty of time to connect.",
+        "az": "Regionun mühəndis, təsisçi və dizaynerlərinin bütöv bir günlük toplantısı. Əsas çıxışlar, demolar və AI, məhsul və infrastruktur üzrə dərin sessiyalar — üstəlik tanışlıq üçün çoxlu vaxt."
+      },
+      "experience": {
+        "en": "Keynote talks, live product demos, hands-on tracks, and a rooftop networking reception.",
+        "az": "Əsas çıxışlar, canlı məhsul demoları, praktik sessiyalar və damüstü networking qəbulu."
+      },
+      "whoShould": {
+        "en": "Developers, product people, founders, and students curious about tech.",
+        "az": "Developerlər, məhsul üzrə mütəxəssislər, təsisçilər və texnologiya ilə maraqlanan tələbələr."
+      },
+      "requirements": {
+        "en": "Bring a valid ticket QR and a laptop if you want to join the hands-on tracks.",
+        "az": "Etibarlı bilet QR-ı gətir, praktik sessiyalara qoşulmaq istəsən noutbuk də götür."
+      },
+      "category": "technology",
+      "tags": [
+        "AI",
+        "Product",
+        "Startups",
+        "Networking"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-tech-summit/1080/720",
+      "start": "2026-10-24T18:30:00",
+      "end": "2026-10-24T22:00:00",
+      "venueName": {
+        "en": "Baku Convention Center",
+        "az": "Bakı Konqres Mərkəzi"
+      },
+      "address": "Tbilisi Ave 76, Baku",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.42,
+      "mapY": 0.35,
+      "format": "in_person",
+      "priceFrom": 15,
+      "capacity": 600,
+      "seatsLeft": 48,
+      "eventLanguage": "both",
+      "organizerId": "org-tech",
+      "featured": true,
+      "distanceKm": 3.2,
+      "goingCount": 412,
+      "attendeeIds": [
+        "u1",
+        "u2",
+        "u4",
+        "u6",
+        "u8"
+      ],
+      "showAttendees": true,
+      "rating": 4.8,
+      "agenda": [
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Doors & welcome",
+            "az": "Qapılar və qarşılama"
+          }
+        },
+        {
+          "time": "19:00",
+          "title": {
+            "en": "Keynote: Building for the region",
+            "az": "Əsas çıxış: Region üçün qurmaq"
+          }
+        },
+        {
+          "time": "20:00",
+          "title": {
+            "en": "Product demos & tracks",
+            "az": "Məhsul demoları və sessiyalar"
+          }
+        },
+        {
+          "time": "21:15",
+          "title": {
+            "en": "Rooftop networking",
+            "az": "Damüstü networking"
+          }
+        }
+      ],
+      "speakerIds": [
+        "sp-1",
+        "sp-2",
+        "sp-4"
+      ]
+    },
+    {
+      "id": "ev-startup-pitch",
+      "title": {
+        "en": "Caspian Pitch Night",
+        "az": "Xəzər Təqdimat Gecəsi"
+      },
+      "summary": {
+        "en": "Eight founders, five minutes each, one room full of signal.",
+        "az": "Səkkiz təsisçi, hərəsinə beş dəqiqə, siqnalla dolu bir zal."
+      },
+      "description": {
+        "en": "Early-stage founders pitch to a friendly room of mentors, operators, and fellow builders. Honest feedback, real connections, no fluff.",
+        "az": "Erkən mərhələ təsisçiləri mentorlar, operatorlar və digər qurucularla dolu mehriban bir zala təqdimat edir. Səmimi rəy, real əlaqələr, artıq söz yox."
+      },
+      "experience": {
+        "en": "Live pitches, rapid Q&A, and open networking with food and drinks.",
+        "az": "Canlı təqdimatlar, sürətli sual-cavab və yemək-içki ilə açıq networking."
+      },
+      "whoShould": {
+        "en": "Founders, aspiring founders, mentors, and anyone curious about startups.",
+        "az": "Təsisçilər, təsisçi olmaq istəyənlər, mentorlar və startaplarla maraqlanan hər kəs."
+      },
+      "requirements": {
+        "en": "Free registration. Want to pitch? Mention it when you register.",
+        "az": "Pulsuz qeydiyyat. Təqdimat etmək istəyirsən? Qeydiyyatda qeyd et."
+      },
+      "category": "startups",
+      "tags": [
+        "Pitch",
+        "Founders",
+        "VC"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-pitch-night/1080/720",
+      "start": "2026-10-27T19:00:00",
+      "venueName": {
+        "en": "Caspian Ventures HQ",
+        "az": "Caspian Ventures Mərkəzi"
+      },
+      "address": "Nizami St 203, Baku",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.55,
+      "mapY": 0.48,
+      "format": "in_person",
+      "priceFrom": 0,
+      "capacity": 120,
+      "seatsLeft": 23,
+      "eventLanguage": "en",
+      "organizerId": "org-caspian",
+      "distanceKm": 1.8,
+      "goingCount": 97,
+      "attendeeIds": [
+        "u3",
+        "u5",
+        "u7"
+      ],
+      "showAttendees": true,
+      "rating": 4.7,
+      "agenda": [
+        {
+          "time": "19:00",
+          "title": {
+            "en": "Welcome & intros",
+            "az": "Qarşılama və tanışlıq"
+          }
+        },
+        {
+          "time": "19:20",
+          "title": {
+            "en": "Pitches (8 founders)",
+            "az": "Təqdimatlar (8 təsisçi)"
+          }
+        },
+        {
+          "time": "20:30",
+          "title": {
+            "en": "Networking",
+            "az": "Networking"
+          }
+        }
+      ],
+      "speakerIds": [
+        "sp-5",
+        "sp-2"
+      ]
+    },
+    {
+      "id": "ev-design-workshop",
+      "title": {
+        "en": "Hands-on Product Design",
+        "az": "Praktik Məhsul Dizaynı"
+      },
+      "summary": {
+        "en": "Go from blank canvas to clickable prototype in one afternoon.",
+        "az": "Bir günortadan boş kətandan kliklənən prototipə qədər get."
+      },
+      "description": {
+        "en": "A practical workshop on product thinking and interface design. We’ll sketch, wireframe, and build a working prototype together using modern tools.",
+        "az": "Məhsul düşüncəsi və interfeys dizaynı üzrə praktik seminar. Birlikdə eskiz çəkəcək, vayrfreym quracaq və müasir alətlərlə işlək prototip hazırlayacağıq."
+      },
+      "experience": {
+        "en": "Guided exercises, a real design brief, and feedback on your work.",
+        "az": "Təlimatlı çalışmalar, real dizayn tapşırığı və işinə rəy."
+      },
+      "whoShould": {
+        "en": "Beginner to intermediate designers, developers, and product curious folks.",
+        "az": "Başlanğıc və orta səviyyəli dizaynerlər, developerlər və məhsulla maraqlananlar."
+      },
+      "requirements": {
+        "en": "Bring a laptop. No prior design experience needed.",
+        "az": "Noutbuk gətir. Əvvəlcədən dizayn təcrübəsi lazım deyil."
+      },
+      "category": "education",
+      "tags": [
+        "Design",
+        "UX",
+        "Workshop"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-design-workshop/1080/720",
+      "start": "2026-10-25T14:00:00",
+      "venueName": {
+        "en": "ArtHouse Baku",
+        "az": "ArtHouse Baku"
+      },
+      "address": "Istiglaliyyat St 5, Baku",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.3,
+      "mapY": 0.6,
+      "format": "in_person",
+      "priceFrom": 25,
+      "capacity": 30,
+      "seatsLeft": 6,
+      "eventLanguage": "en",
+      "organizerId": "org-arthouse",
+      "distanceKm": 2.5,
+      "goingCount": 24,
+      "attendeeIds": [
+        "u2",
+        "u8"
+      ],
+      "showAttendees": true,
+      "rating": 4.9,
+      "agenda": [
+        {
+          "time": "14:00",
+          "title": {
+            "en": "Design thinking basics",
+            "az": "Dizayn təfəkkürünün əsasları"
+          }
+        },
+        {
+          "time": "15:00",
+          "title": {
+            "en": "Wireframing sprint",
+            "az": "Vayrfreym sprinti"
+          }
+        },
+        {
+          "time": "16:30",
+          "title": {
+            "en": "Prototype & critique",
+            "az": "Prototip və təhlil"
+          }
+        }
+      ],
+      "speakerIds": [
+        "sp-3"
+      ]
+    },
+    {
+      "id": "ev-lang-exchange",
+      "title": {
+        "en": "Polyglot Night",
+        "az": "Poliqlot Gecəsi"
+      },
+      "summary": {
+        "en": "Practice a new language over tea with friendly locals.",
+        "az": "Mehriban yerlilərlə çay üstündə yeni dil məşq et."
+      },
+      "description": {
+        "en": "Rotating tables for English, Azerbaijani, Turkish, and Russian. Switch tables every 20 minutes and practice at your own level.",
+        "az": "İngilis, Azərbaycan, türk və rus dilləri üçün növbələşən masalar. Hər 20 dəqiqədən bir masa dəyiş və öz səviyyəndə məşq et."
+      },
+      "experience": {
+        "en": "Low-pressure conversation, ice-breaker games, and new friends.",
+        "az": "Təzyiqsiz söhbət, tanışlıq oyunları və yeni dostlar."
+      },
+      "whoShould": {
+        "en": "Anyone learning a language — all levels welcome.",
+        "az": "Dil öyrənən hər kəs — bütün səviyyələr xoş gəlir."
+      },
+      "requirements": {
+        "en": "Just bring yourself. Name tags and tea provided.",
+        "az": "Sadəcə özünü gətir. Ad nişanları və çay təmin olunur."
+      },
+      "category": "languageExchange",
+      "tags": [
+        "Languages",
+        "Social",
+        "Beginner friendly"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-polyglot/1080/720",
+      "start": "2026-10-22T19:30:00",
+      "venueName": {
+        "en": "Lingua Café",
+        "az": "Lingua Kafe"
+      },
+      "address": "Fountain Square, Baku",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.48,
+      "mapY": 0.55,
+      "format": "in_person",
+      "priceFrom": 0,
+      "capacity": 50,
+      "seatsLeft": 18,
+      "eventLanguage": "both",
+      "organizerId": "org-lingua",
+      "distanceKm": 1.1,
+      "goingCount": 38,
+      "attendeeIds": [
+        "u1",
+        "u4",
+        "u6",
+        "u7"
+      ],
+      "showAttendees": true,
+      "rating": 4.6,
+      "agenda": [
+        {
+          "time": "19:30",
+          "title": {
+            "en": "Welcome & ice-breakers",
+            "az": "Qarşılama və tanışlıq oyunları"
+          }
+        },
+        {
+          "time": "19:50",
+          "title": {
+            "en": "Rotating tables",
+            "az": "Növbələşən masalar"
+          }
+        },
+        {
+          "time": "21:00",
+          "title": {
+            "en": "Open mingling",
+            "az": "Sərbəst ünsiyyət"
+          }
+        }
+      ],
+      "speakerIds": []
+    },
+    {
+      "id": "ev-cleanup",
+      "title": {
+        "en": "Caspian Shore Cleanup",
+        "az": "Xəzər Sahili Təmizliyi"
+      },
+      "summary": {
+        "en": "Spend a morning giving the coastline back its shine.",
+        "az": "Bir səhəri sahilə parıltısını qaytarmağa həsr et."
+      },
+      "description": {
+        "en": "Join a community cleanup along the Baku Boulevard shoreline. Gloves, bags, and refreshments provided. Family and kids welcome.",
+        "az": "Bakı Bulvarı sahili boyunca icma təmizlik aksiyasına qoşul. Əlcək, torba və sərinləşdirici içkilər təmin olunur. Ailə və uşaqlar xoş gəlir."
+      },
+      "experience": {
+        "en": "Hands-on volunteering, good company, and a visibly cleaner shore.",
+        "az": "Praktik könüllülük, xoş yoldaşlıq və gözlə görünən təmiz sahil."
+      },
+      "whoShould": {
+        "en": "Everyone who cares about the environment. No experience needed.",
+        "az": "Ətraf mühitə əhəmiyyət verən hər kəs. Təcrübə lazım deyil."
+      },
+      "requirements": {
+        "en": "Wear comfortable shoes and clothes you don’t mind getting dirty.",
+        "az": "Rahat ayaqqabı və çirklənməsinə əhəmiyyət verməyəcəyin paltar geyin."
+      },
+      "category": "volunteering",
+      "tags": [
+        "Environment",
+        "Community",
+        "Family friendly"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-cleanup/1080/720",
+      "start": "2026-10-25T09:00:00",
+      "venueName": {
+        "en": "Baku Boulevard",
+        "az": "Bakı Bulvarı"
+      },
+      "address": "Seaside Boulevard, Baku",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.6,
+      "mapY": 0.72,
+      "format": "in_person",
+      "priceFrom": 0,
+      "capacity": 200,
+      "seatsLeft": 134,
+      "eventLanguage": "az",
+      "organizerId": "org-green",
+      "distanceKm": 2,
+      "goingCount": 66,
+      "attendeeIds": [
+        "u3",
+        "u5"
+      ],
+      "showAttendees": true,
+      "rating": 4.9,
+      "agenda": [
+        {
+          "time": "09:00",
+          "title": {
+            "en": "Gather & gear up",
+            "az": "Toplaşma və hazırlıq"
+          }
+        },
+        {
+          "time": "09:30",
+          "title": {
+            "en": "Cleanup sweep",
+            "az": "Təmizlik"
+          }
+        },
+        {
+          "time": "11:30",
+          "title": {
+            "en": "Wrap-up & refreshments",
+            "az": "Yekun və sərinləşdirici"
+          }
+        }
+      ],
+      "speakerIds": []
+    },
+    {
+      "id": "ev-yoga",
+      "title": {
+        "en": "Sunrise Rooftop Yoga",
+        "az": "Gündoğuşu Damüstü Yoqa"
+      },
+      "summary": {
+        "en": "Start your day with breath, movement, and a city skyline.",
+        "az": "Gününə nəfəs, hərəkət və şəhər mənzərəsi ilə başla."
+      },
+      "description": {
+        "en": "A gentle 60-minute flow suitable for all levels, on a rooftop overlooking the bay. Mats available on request.",
+        "az": "Körfəzə baxan damüstündə bütün səviyyələr üçün uyğun 60 dəqiqəlik yumşaq axın. İstəyə görə mat təmin olunur."
+      },
+      "experience": {
+        "en": "A calming flow, breathing work, and a fresh-start feeling.",
+        "az": "Sakitləşdirici axın, nəfəs işi və yenidən başlama hissi."
+      },
+      "whoShould": {
+        "en": "All levels, including complete beginners.",
+        "az": "Bütün səviyyələr, tam başlanğıclar daxil."
+      },
+      "requirements": {
+        "en": "Bring water. Mats can be rented at the door.",
+        "az": "Su gətir. Matları girişdə kirayələmək olar."
+      },
+      "category": "wellness",
+      "tags": [
+        "Yoga",
+        "Morning",
+        "Wellness"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-yoga/1080/720",
+      "start": "2026-10-19T07:00:00",
+      "venueName": {
+        "en": "Pulse Studio Rooftop",
+        "az": "Pulse Studio Damüstü"
+      },
+      "address": "Port Baku, Baku",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.68,
+      "mapY": 0.4,
+      "format": "in_person",
+      "priceFrom": 10,
+      "capacity": 25,
+      "seatsLeft": 0,
+      "eventLanguage": "both",
+      "organizerId": "org-pulse",
+      "distanceKm": 4.4,
+      "goingCount": 25,
+      "attendeeIds": [
+        "u6",
+        "u8"
+      ],
+      "showAttendees": true,
+      "rating": 4.7,
+      "agenda": [
+        {
+          "time": "07:00",
+          "title": {
+            "en": "Breathing & warm-up",
+            "az": "Nəfəs və qızışma"
+          }
+        },
+        {
+          "time": "07:15",
+          "title": {
+            "en": "Guided flow",
+            "az": "Təlimatlı axın"
+          }
+        },
+        {
+          "time": "07:50",
+          "title": {
+            "en": "Cool-down & tea",
+            "az": "Sakitləşmə və çay"
+          }
+        }
+      ],
+      "speakerIds": []
+    },
+    {
+      "id": "ev-hackathon",
+      "title": {
+        "en": "Baku Dev Hackathon",
+        "az": "Bakı Dev Hakatonu"
+      },
+      "summary": {
+        "en": "48 hours, one team, one idea worth shipping.",
+        "az": "48 saat, bir komanda, göndərməyə dəyər bir ideya."
+      },
+      "description": {
+        "en": "A weekend hackathon for builders of all stripes. Form a team, ship a prototype, and demo to judges. Mentors on-site, prizes for the top three.",
+        "az": "Hər cür qurucular üçün həftəsonu hakatonu. Komanda qur, prototip göndər və münsiflərə təqdim et. Yerində mentorlar, ilk üçlük üçün mükafatlar."
+      },
+      "experience": {
+        "en": "Team formation, mentorship, an all-night build, and a demo finale.",
+        "az": "Komanda qurma, mentorluq, bütün gecə iş və demo finalı."
+      },
+      "whoShould": {
+        "en": "Developers, designers, and product people. Beginners welcome.",
+        "az": "Developerlər, dizaynerlər və məhsul üzrə mütəxəssislər. Başlanğıclar xoş gəlir."
+      },
+      "requirements": {
+        "en": "Bring a laptop and charger. Teams of 2–5. Food provided.",
+        "az": "Noutbuk və şarj cihazı gətir. 2–5 nəfərlik komandalar. Yemək təmin olunur."
+      },
+      "category": "technology",
+      "tags": [
+        "Hackathon",
+        "Teams",
+        "Prizes"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-hackathon/1080/720",
+      "start": "2026-11-07T10:00:00",
+      "end": "2026-11-09T16:00:00",
+      "venueName": {
+        "en": "Innovation Hub",
+        "az": "İnnovasiya Mərkəzi"
+      },
+      "address": "Baku White City, Baku",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.72,
+      "mapY": 0.58,
+      "format": "in_person",
+      "priceFrom": 0,
+      "capacity": 150,
+      "seatsLeft": 41,
+      "eventLanguage": "en",
+      "organizerId": "org-devclub",
+      "distanceKm": 6.1,
+      "goingCount": 109,
+      "attendeeIds": [
+        "u1",
+        "u3",
+        "u5",
+        "u7"
+      ],
+      "showAttendees": true,
+      "rating": 4.8,
+      "agenda": [
+        {
+          "time": "Fri 10:00",
+          "title": {
+            "en": "Kickoff & team forming",
+            "az": "Açılış və komanda qurma"
+          }
+        },
+        {
+          "time": "Sat",
+          "title": {
+            "en": "Build + mentorship",
+            "az": "İş + mentorluq"
+          }
+        },
+        {
+          "time": "Sun 14:00",
+          "title": {
+            "en": "Demos & judging",
+            "az": "Demolar və qiymətləndirmə"
+          }
+        }
+      ],
+      "speakerIds": [
+        "sp-4",
+        "sp-1"
+      ]
+    },
+    {
+      "id": "ev-jazz",
+      "title": {
+        "en": "Old City Jazz Night",
+        "az": "İçərişəhər Caz Gecəsi"
+      },
+      "summary": {
+        "en": "Live standards and warm improv in a candle-lit room.",
+        "az": "Şam işığında zalda canlı standartlar və isti improvizasiya."
+      },
+      "description": {
+        "en": "An intimate evening of live jazz with a trio and special guests, followed by an open jam for anyone who wants to sit in.",
+        "az": "Trio və xüsusi qonaqlarla canlı cazın səmimi axşamı, ardınca qoşulmaq istəyən hər kəs üçün açıq jam."
+      },
+      "experience": {
+        "en": "Live music, a cozy room, and an open-jam finale.",
+        "az": "Canlı musiqi, rahat zal və açıq jam finalı."
+      },
+      "whoShould": {
+        "en": "Music lovers and anyone after a mellow night out.",
+        "az": "Musiqisevərlər və sakit bir axşam axtaranlar."
+      },
+      "requirements": {
+        "en": "Over 18. Drinks available for purchase.",
+        "az": "18 yaşdan yuxarı. İçkiləri yerində almaq olar."
+      },
+      "category": "music",
+      "tags": [
+        "Jazz",
+        "Live music",
+        "Nightlife"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-jazz/1080/720",
+      "start": "2026-10-23T21:00:00",
+      "venueName": {
+        "en": "Old City Jazz Club",
+        "az": "İçərişəhər Caz Klubu"
+      },
+      "address": "Icherisheher, Baku",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.38,
+      "mapY": 0.5,
+      "format": "in_person",
+      "priceFrom": 20,
+      "capacity": 80,
+      "seatsLeft": 12,
+      "eventLanguage": "both",
+      "organizerId": "org-jazz",
+      "distanceKm": 1.4,
+      "goingCount": 68,
+      "attendeeIds": [
+        "u2",
+        "u4"
+      ],
+      "showAttendees": true,
+      "rating": 4.8,
+      "agenda": [
+        {
+          "time": "21:00",
+          "title": {
+            "en": "Trio set",
+            "az": "Trio çıxışı"
+          }
+        },
+        {
+          "time": "22:00",
+          "title": {
+            "en": "Special guest",
+            "az": "Xüsusi qonaq"
+          }
+        },
+        {
+          "time": "22:45",
+          "title": {
+            "en": "Open jam",
+            "az": "Açıq jam"
+          }
+        }
+      ],
+      "speakerIds": [
+        "sp-6"
+      ]
+    },
+    {
+      "id": "ev-ai-workshop",
+      "title": {
+        "en": "Intro to Applied AI",
+        "az": "Tətbiqi AI-ya Giriş"
+      },
+      "summary": {
+        "en": "Build your first useful AI feature, live and online.",
+        "az": "İlk faydalı AI funksiyanı canlı və onlayn qur."
+      },
+      "description": {
+        "en": "A beginner-friendly online workshop on using modern AI APIs. We’ll build a small working app together and talk through what actually matters in production.",
+        "az": "Müasir AI API-lərindən istifadə üzrə başlanğıclar üçün onlayn seminar. Birlikdə kiçik işlək tətbiq quracaq və istehsalda əslində nəyin vacib olduğundan danışacağıq."
+      },
+      "experience": {
+        "en": "A guided live build you can follow along with and keep.",
+        "az": "İzləyə və saxlaya biləcəyin təlimatlı canlı iş."
+      },
+      "whoShould": {
+        "en": "Developers curious about AI. Basic coding helps.",
+        "az": "AI ilə maraqlanan developerlər. Əsas kodlaşdırma bilikləri kömək edir."
+      },
+      "requirements": {
+        "en": "A computer and internet. Join link sent after registration.",
+        "az": "Kompüter və internet. Qoşulma linki qeydiyyatdan sonra göndərilir."
+      },
+      "category": "technology",
+      "tags": [
+        "AI",
+        "Online",
+        "Workshop"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-ai-workshop/1080/720",
+      "start": "2026-10-29T18:00:00",
+      "venueName": {
+        "en": "Online (link after signup)",
+        "az": "Onlayn (qeydiyyatdan sonra link)"
+      },
+      "address": "Online",
+      "city": {
+        "en": "Online",
+        "az": "Onlayn"
+      },
+      "mapX": 0.5,
+      "mapY": 0.5,
+      "format": "online",
+      "priceFrom": 30,
+      "capacity": 100,
+      "seatsLeft": 57,
+      "eventLanguage": "en",
+      "organizerId": "org-tech",
+      "distanceKm": 0,
+      "goingCount": 43,
+      "attendeeIds": [],
+      "showAttendees": false,
+      "rating": 4.6,
+      "agenda": [
+        {
+          "time": "18:00",
+          "title": {
+            "en": "Setup & concepts",
+            "az": "Quraşdırma və anlayışlar"
+          }
+        },
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Live build",
+            "az": "Canlı iş"
+          }
+        },
+        {
+          "time": "19:30",
+          "title": {
+            "en": "Q&A",
+            "az": "Sual-cavab"
+          }
+        }
+      ],
+      "speakerIds": [
+        "sp-1"
+      ]
+    },
+    {
+      "id": "ev-founder-mixer",
+      "title": {
+        "en": "Founders Mixer",
+        "az": "Təsisçilər Görüşü"
+      },
+      "summary": {
+        "en": "Trade notes with people building things, over drinks.",
+        "az": "İçki üstündə nəsə quran insanlarla təcrübə mübadiləsi et."
+      },
+      "description": {
+        "en": "A relaxed evening for founders and operators to meet, swap war stories, and maybe find a collaborator or co-founder.",
+        "az": "Təsisçi və operatorların görüşməsi, təcrübə bölüşməsi və bəlkə də əməkdaş və ya həmtəsisçi tapması üçün rahat axşam."
+      },
+      "experience": {
+        "en": "Casual networking with name tags and conversation starters.",
+        "az": "Ad nişanları və söhbət başladıcıları ilə sərbəst networking."
+      },
+      "whoShould": {
+        "en": "Founders, operators, and people thinking of starting something.",
+        "az": "Təsisçilər, operatorlar və nəsə başlamaq haqqında düşünənlər."
+      },
+      "requirements": {
+        "en": "Free registration. Bring business cards if you have them.",
+        "az": "Pulsuz qeydiyyat. Varsa, vizit kartları gətir."
+      },
+      "category": "networking",
+      "tags": [
+        "Networking",
+        "Founders",
+        "Social"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-founder-mixer/1080/720",
+      "start": "2026-10-30T18:30:00",
+      "venueName": {
+        "en": "Founders Baku Loft",
+        "az": "Founders Baku Loft"
+      },
+      "address": "Port Baku Towers, Baku",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.66,
+      "mapY": 0.44,
+      "format": "in_person",
+      "priceFrom": 0,
+      "capacity": 90,
+      "seatsLeft": 31,
+      "eventLanguage": "en",
+      "organizerId": "org-founders",
+      "distanceKm": 4.2,
+      "goingCount": 59,
+      "attendeeIds": [
+        "u1",
+        "u5",
+        "u7",
+        "u8"
+      ],
+      "showAttendees": true,
+      "rating": 4.5,
+      "agenda": [
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Doors open",
+            "az": "Qapılar açılır"
+          }
+        },
+        {
+          "time": "19:00",
+          "title": {
+            "en": "Lightning intros",
+            "az": "Qısa tanışlıqlar"
+          }
+        },
+        {
+          "time": "19:30",
+          "title": {
+            "en": "Open networking",
+            "az": "Açıq networking"
+          }
+        }
+      ],
+      "speakerIds": [
+        "sp-5"
+      ]
+    },
+    {
+      "id": "ev-book-club",
+      "title": {
+        "en": "Modern Lit Book Club",
+        "az": "Müasir Ədəbiyyat Kitab Klubu"
+      },
+      "summary": {
+        "en": "This month: a short novel and a long conversation.",
+        "az": "Bu ay: qısa roman və uzun söhbət."
+      },
+      "description": {
+        "en": "A friendly monthly book club. Read the pick, bring your take, and discover what others saw in it. New members always welcome.",
+        "az": "Mehriban aylıq kitab klubu. Seçilmiş kitabı oxu, fikrini gətir və başqalarının orada nə gördüyünü kəşf et. Yeni üzvlər həmişə xoş gəlir."
+      },
+      "experience": {
+        "en": "Guided discussion, tea, and a vote on next month’s book.",
+        "az": "Təlimatlı müzakirə, çay və gələn ayın kitabı üçün səsvermə."
+      },
+      "whoShould": {
+        "en": "Readers of all kinds. Haven’t finished the book? Still come.",
+        "az": "Hər cür oxucular. Kitabı bitirməmisən? Yenə də gəl."
+      },
+      "requirements": {
+        "en": "Free. This month’s pick is posted in the community.",
+        "az": "Pulsuz. Bu ayın seçimi icmada yerləşdirilib."
+      },
+      "category": "books",
+      "tags": [
+        "Books",
+        "Discussion",
+        "Monthly"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-book-club/1080/720",
+      "start": "2026-10-26T16:00:00",
+      "venueName": {
+        "en": "ArtHouse Reading Room",
+        "az": "ArtHouse Oxu Zalı"
+      },
+      "address": "Istiglaliyyat St 5, Baku",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.31,
+      "mapY": 0.62,
+      "format": "in_person",
+      "priceFrom": 0,
+      "capacity": 20,
+      "seatsLeft": 7,
+      "eventLanguage": "both",
+      "organizerId": "org-arthouse",
+      "distanceKm": 2.5,
+      "goingCount": 13,
+      "attendeeIds": [
+        "u2",
+        "u6"
+      ],
+      "showAttendees": true,
+      "rating": 4.7,
+      "agenda": [
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Warm welcome",
+            "az": "İsti qarşılama"
+          }
+        },
+        {
+          "time": "16:15",
+          "title": {
+            "en": "Discussion",
+            "az": "Müzakirə"
+          }
+        },
+        {
+          "time": "17:30",
+          "title": {
+            "en": "Next pick vote",
+            "az": "Növbəti seçim səsverməsi"
+          }
+        }
+      ],
+      "speakerIds": []
+    },
+    {
+      "id": "ev-support",
+      "title": {
+        "en": "Serenity Evening Circle",
+        "az": "Serenity Axşam Dairəsi"
+      },
+      "summary": {
+        "en": "A confidential, welcoming peer-support meeting.",
+        "az": "Məxfi və mehriban dəstək qrupu görüşü."
+      },
+      "description": {
+        "en": "An independently organized peer-support meeting in a calm, private setting. Attendance is confidential and names are never shared.",
+        "az": "Sakit və qapalı mühitdə müstəqil təşkil olunan dəstək qrupu görüşü. İştirak məxfidir və adlar heç vaxt paylaşılmır."
+      },
+      "experience": {
+        "en": "A quiet space to listen and share, at your own pace.",
+        "az": "Öz tempinlə dinləmək və bölüşmək üçün sakit məkan."
+      },
+      "whoShould": {
+        "en": "Anyone seeking a supportive, judgment-free space.",
+        "az": "Dəstəkləyici və mühakiməsiz məkan axtaran hər kəs."
+      },
+      "requirements": {
+        "en": "Please respect confidentiality. Location shared with confirmed attendees only.",
+        "az": "Zəhmət olmasa məxfiliyə hörmət et. Yer yalnız təsdiqlənmiş iştirakçılarla paylaşılır."
+      },
+      "category": "peerSupport",
+      "tags": [
+        "Support",
+        "Confidential",
+        "Wellbeing"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-serenity/1080/720",
+      "start": "2026-10-20T19:00:00",
+      "venueName": {
+        "en": "Private — shared on confirmation",
+        "az": "Məxfi — təsdiqdə paylaşılır"
+      },
+      "address": "Baku (private)",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.5,
+      "mapY": 0.5,
+      "format": "in_person",
+      "priceFrom": 0,
+      "capacity": 15,
+      "seatsLeft": 5,
+      "eventLanguage": "both",
+      "organizerId": "org-serenity",
+      "distanceKm": 2.2,
+      "goingCount": 0,
+      "attendeeIds": [],
+      "showAttendees": false,
+      "sensitive": true,
+      "agenda": [
+        {
+          "time": "19:00",
+          "title": {
+            "en": "Welcome & guidelines",
+            "az": "Qarşılama və qaydalar"
+          }
+        },
+        {
+          "time": "19:15",
+          "title": {
+            "en": "Open sharing",
+            "az": "Açıq bölüşmə"
+          }
+        },
+        {
+          "time": "20:15",
+          "title": {
+            "en": "Close",
+            "az": "Yekun"
+          }
+        }
+      ],
+      "speakerIds": []
+    },
+    {
+      "id": "ev-5aside",
+      "title": {
+        "en": "5-a-side Football Meetup",
+        "az": "Mini Futbol Görüşü"
+      },
+      "summary": {
+        "en": "Casual pickup football — just show up and play.",
+        "az": "Sərbəst futbol — sadəcə gəl və oyna."
+      },
+      "description": {
+        "en": "A friendly weekly 5-a-side game on an indoor pitch. Teams are mixed on the night; all skill levels welcome.",
+        "az": "Qapalı meydançada mehriban həftəlik mini futbol oyunu. Komandalar yerində qarışdırılır; bütün səviyyələr xoş gəlir."
+      },
+      "experience": {
+        "en": "A fast, fun game and a few new teammates.",
+        "az": "Sürətli, əyləncəli oyun və bir neçə yeni komanda yoldaşı."
+      },
+      "whoShould": {
+        "en": "Anyone who likes to run around. No team needed.",
+        "az": "Qaçmağı sevən hər kəs. Komanda lazım deyil."
+      },
+      "requirements": {
+        "en": "Bring sports shoes. Bibs and ball provided.",
+        "az": "İdman ayaqqabısı gətir. Köynəklər və top təmin olunur."
+      },
+      "category": "sports",
+      "tags": [
+        "Football",
+        "Weekly",
+        "Social"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-football/1080/720",
+      "start": "2026-10-21T20:00:00",
+      "venueName": {
+        "en": "Pulse Indoor Pitch",
+        "az": "Pulse Qapalı Meydança"
+      },
+      "address": "Ganjlik, Baku",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.58,
+      "mapY": 0.3,
+      "format": "in_person",
+      "priceFrom": 8,
+      "capacity": 20,
+      "seatsLeft": 4,
+      "eventLanguage": "az",
+      "organizerId": "org-pulse",
+      "distanceKm": 3,
+      "goingCount": 16,
+      "attendeeIds": [
+        "u3",
+        "u5",
+        "u7"
+      ],
+      "showAttendees": true,
+      "rating": 4.6,
+      "agenda": [
+        {
+          "time": "20:00",
+          "title": {
+            "en": "Warm-up",
+            "az": "Qızışma"
+          }
+        },
+        {
+          "time": "20:15",
+          "title": {
+            "en": "Matches",
+            "az": "Oyunlar"
+          }
+        },
+        {
+          "time": "21:30",
+          "title": {
+            "en": "Cool-down",
+            "az": "Sakitləşmə"
+          }
+        }
+      ],
+      "speakerIds": []
+    },
+    {
+      "id": "ev-marketing",
+      "title": {
+        "en": "Growth Marketing Masterclass",
+        "az": "Böyümə Marketinqi Masterklassı"
+      },
+      "summary": {
+        "en": "Frameworks for finding and keeping your first 1,000 users.",
+        "az": "İlk 1000 istifadəçini tapmaq və saxlamaq üçün çərçivələr."
+      },
+      "description": {
+        "en": "A practical online masterclass on acquisition, retention, and measuring what matters. Includes a workbook and templates you keep.",
+        "az": "Cəlb etmə, saxlama və vacib olanı ölçmə üzrə praktik onlayn masterklass. Saxladığın iş kitabı və şablonları da daxildir."
+      },
+      "experience": {
+        "en": "Real frameworks, worked examples, and a live Q&A.",
+        "az": "Real çərçivələr, işlənmiş nümunələr və canlı sual-cavab."
+      },
+      "whoShould": {
+        "en": "Founders, marketers, and product people.",
+        "az": "Təsisçilər, marketoloqlar və məhsul üzrə mütəxəssislər."
+      },
+      "requirements": {
+        "en": "Internet access. Recording shared with registrants.",
+        "az": "İnternet girişi. Yazı qeydiyyatdan keçənlərlə paylaşılır."
+      },
+      "category": "business",
+      "tags": [
+        "Marketing",
+        "Growth",
+        "Online"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-marketing/1080/720",
+      "start": "2026-11-03T17:00:00",
+      "venueName": {
+        "en": "Online (link after signup)",
+        "az": "Onlayn (qeydiyyatdan sonra link)"
+      },
+      "address": "Online",
+      "city": {
+        "en": "Online",
+        "az": "Onlayn"
+      },
+      "mapX": 0.5,
+      "mapY": 0.5,
+      "format": "online",
+      "priceFrom": 40,
+      "capacity": 200,
+      "seatsLeft": 121,
+      "eventLanguage": "en",
+      "organizerId": "org-founders",
+      "distanceKm": 0,
+      "goingCount": 79,
+      "attendeeIds": [],
+      "showAttendees": false,
+      "rating": 4.7,
+      "agenda": [
+        {
+          "time": "17:00",
+          "title": {
+            "en": "Acquisition",
+            "az": "Cəlb etmə"
+          }
+        },
+        {
+          "time": "17:45",
+          "title": {
+            "en": "Retention",
+            "az": "Saxlama"
+          }
+        },
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Measurement & Q&A",
+            "az": "Ölçmə və sual-cavab"
+          }
+        }
+      ],
+      "speakerIds": [
+        "sp-2"
+      ]
+    },
+    {
+      "id": "ev-photo-walk",
+      "title": {
+        "en": "Old City Photo Walk",
+        "az": "İçərişəhər Foto Gəzintisi"
+      },
+      "summary": {
+        "en": "Chase light and texture through ancient streets.",
+        "az": "Qədim küçələrdə işıq və fakturanın ardınca get."
+      },
+      "description": {
+        "en": "A guided photo walk through Icherisheher. Bring any camera — phone included — and learn to see light, lines, and moments.",
+        "az": "İçərişəhər boyunca təlimatlı foto gəzintisi. İstənilən kamera gətir — telefon daxil — və işığı, xətləri və anları görməyi öyrən."
+      },
+      "experience": {
+        "en": "Hands-on shooting tips and a shared photo review at the end.",
+        "az": "Praktik çəkiliş məsləhətləri və sonda ortaq foto baxışı."
+      },
+      "whoShould": {
+        "en": "Anyone who likes taking pictures, any level.",
+        "az": "Şəkil çəkməyi sevən hər kəs, istənilən səviyyə."
+      },
+      "requirements": {
+        "en": "Any camera or phone. Comfortable walking shoes.",
+        "az": "İstənilən kamera və ya telefon. Rahat gəzinti ayaqqabısı."
+      },
+      "category": "art",
+      "tags": [
+        "Photography",
+        "Walk",
+        "Beginner friendly"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-photo-walk/1080/720",
+      "start": "2026-10-26T10:00:00",
+      "venueName": {
+        "en": "Maiden Tower entrance",
+        "az": "Qız Qalası girişi"
+      },
+      "address": "Icherisheher, Baku",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.36,
+      "mapY": 0.52,
+      "format": "in_person",
+      "priceFrom": 12,
+      "capacity": 18,
+      "seatsLeft": 9,
+      "eventLanguage": "both",
+      "organizerId": "org-arthouse",
+      "distanceKm": 1.3,
+      "goingCount": 11,
+      "attendeeIds": [
+        "u4",
+        "u8"
+      ],
+      "showAttendees": true,
+      "rating": 4.8,
+      "agenda": [
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Meet & basics",
+            "az": "Görüş və əsaslar"
+          }
+        },
+        {
+          "time": "10:30",
+          "title": {
+            "en": "Walk & shoot",
+            "az": "Gəzinti və çəkiliş"
+          }
+        },
+        {
+          "time": "12:00",
+          "title": {
+            "en": "Photo review",
+            "az": "Foto baxışı"
+          }
+        }
+      ],
+      "speakerIds": [
+        "sp-3"
+      ]
+    },
+    {
+      "id": "ev-career-fair",
+      "title": {
+        "en": "Remote Career Fair",
+        "az": "Uzaqdan Karyera Yarmarkası"
+      },
+      "summary": {
+        "en": "Meet hiring teams from across the region — from your desk.",
+        "az": "Region üzrə işə götürən komandalarla tanış ol — öz masandan."
+      },
+      "description": {
+        "en": "An online career fair with virtual booths, short talks on getting hired, and live chat with recruiters.",
+        "az": "Virtual stendlər, işə qəbul üzrə qısa çıxışlar və rekruterlərlə canlı söhbətlə onlayn karyera yarmarkası."
+      },
+      "experience": {
+        "en": "Browse booths, join talks, and message recruiters directly.",
+        "az": "Stendlərə bax, çıxışlara qoşul və rekruterlərə birbaşa yaz."
+      },
+      "whoShould": {
+        "en": "Job seekers, students, and career switchers.",
+        "az": "İş axtaranlar, tələbələr və karyera dəyişənlər."
+      },
+      "requirements": {
+        "en": "Have your CV ready. Join link sent after registration.",
+        "az": "CV-ni hazır saxla. Qoşulma linki qeydiyyatdan sonra göndərilir."
+      },
+      "category": "networking",
+      "tags": [
+        "Careers",
+        "Online",
+        "Hiring"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-career-fair/1080/720",
+      "start": "2026-11-05T15:00:00",
+      "venueName": {
+        "en": "Online (link after signup)",
+        "az": "Onlayn (qeydiyyatdan sonra link)"
+      },
+      "address": "Online",
+      "city": {
+        "en": "Online",
+        "az": "Onlayn"
+      },
+      "mapX": 0.5,
+      "mapY": 0.5,
+      "format": "online",
+      "priceFrom": 0,
+      "capacity": 500,
+      "seatsLeft": 300,
+      "eventLanguage": "both",
+      "organizerId": "org-founders",
+      "distanceKm": 0,
+      "goingCount": 168,
+      "attendeeIds": [],
+      "showAttendees": false,
+      "rating": 4.4,
+      "agenda": [
+        {
+          "time": "15:00",
+          "title": {
+            "en": "Booths open",
+            "az": "Stendlər açılır"
+          }
+        },
+        {
+          "time": "15:30",
+          "title": {
+            "en": "Hiring talks",
+            "az": "İşə qəbul çıxışları"
+          }
+        },
+        {
+          "time": "16:30",
+          "title": {
+            "en": "Recruiter chats",
+            "az": "Rekruter söhbətləri"
+          }
+        }
+      ],
+      "speakerIds": [
+        "sp-5"
+      ]
+    }
+  ],
+  "allEvents": [
+    {
+      "id": "ev-tech-summit",
+      "title": {
+        "en": "Baku Tech Summit",
+        "az": "Bakı Texnologiya Sammiti"
+      },
+      "summary": {
+        "en": "Meet the people building the future of technology.",
+        "az": "Texnologiyanın gələcəyini quran insanlarla tanış ol."
+      },
+      "description": {
+        "en": "A full-day gathering of engineers, founders, and designers from across the region. Keynotes, demos, and deep-dive tracks on AI, product, and infrastructure — plus plenty of time to connect.",
+        "az": "Regionun mühəndis, təsisçi və dizaynerlərinin bütöv bir günlük toplantısı. Əsas çıxışlar, demolar və AI, məhsul və infrastruktur üzrə dərin sessiyalar — üstəlik tanışlıq üçün çoxlu vaxt."
+      },
+      "experience": {
+        "en": "Keynote talks, live product demos, hands-on tracks, and a rooftop networking reception.",
+        "az": "Əsas çıxışlar, canlı məhsul demoları, praktik sessiyalar və damüstü networking qəbulu."
+      },
+      "whoShould": {
+        "en": "Developers, product people, founders, and students curious about tech.",
+        "az": "Developerlər, məhsul üzrə mütəxəssislər, təsisçilər və texnologiya ilə maraqlanan tələbələr."
+      },
+      "requirements": {
+        "en": "Bring a valid ticket QR and a laptop if you want to join the hands-on tracks.",
+        "az": "Etibarlı bilet QR-ı gətir, praktik sessiyalara qoşulmaq istəsən noutbuk də götür."
+      },
+      "category": "technology",
+      "tags": [
+        "AI",
+        "Product",
+        "Startups",
+        "Networking"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-tech-summit/1080/720",
+      "start": "2026-10-24T18:30:00",
+      "end": "2026-10-24T22:00:00",
+      "venueName": {
+        "en": "Baku Convention Center",
+        "az": "Bakı Konqres Mərkəzi"
+      },
+      "address": "Tbilisi Ave 76, Baku",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.42,
+      "mapY": 0.35,
+      "format": "in_person",
+      "priceFrom": 15,
+      "capacity": 600,
+      "seatsLeft": 48,
+      "eventLanguage": "both",
+      "organizerId": "org-tech",
+      "featured": true,
+      "distanceKm": 3.2,
+      "goingCount": 412,
+      "attendeeIds": [
+        "u1",
+        "u2",
+        "u4",
+        "u6",
+        "u8"
+      ],
+      "showAttendees": true,
+      "rating": 4.8,
+      "agenda": [
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Doors & welcome",
+            "az": "Qapılar və qarşılama"
+          }
+        },
+        {
+          "time": "19:00",
+          "title": {
+            "en": "Keynote: Building for the region",
+            "az": "Əsas çıxış: Region üçün qurmaq"
+          }
+        },
+        {
+          "time": "20:00",
+          "title": {
+            "en": "Product demos & tracks",
+            "az": "Məhsul demoları və sessiyalar"
+          }
+        },
+        {
+          "time": "21:15",
+          "title": {
+            "en": "Rooftop networking",
+            "az": "Damüstü networking"
+          }
+        }
+      ],
+      "speakerIds": [
+        "sp-1",
+        "sp-2",
+        "sp-4"
+      ]
+    },
+    {
+      "id": "ev-startup-pitch",
+      "title": {
+        "en": "Caspian Pitch Night",
+        "az": "Xəzər Təqdimat Gecəsi"
+      },
+      "summary": {
+        "en": "Eight founders, five minutes each, one room full of signal.",
+        "az": "Səkkiz təsisçi, hərəsinə beş dəqiqə, siqnalla dolu bir zal."
+      },
+      "description": {
+        "en": "Early-stage founders pitch to a friendly room of mentors, operators, and fellow builders. Honest feedback, real connections, no fluff.",
+        "az": "Erkən mərhələ təsisçiləri mentorlar, operatorlar və digər qurucularla dolu mehriban bir zala təqdimat edir. Səmimi rəy, real əlaqələr, artıq söz yox."
+      },
+      "experience": {
+        "en": "Live pitches, rapid Q&A, and open networking with food and drinks.",
+        "az": "Canlı təqdimatlar, sürətli sual-cavab və yemək-içki ilə açıq networking."
+      },
+      "whoShould": {
+        "en": "Founders, aspiring founders, mentors, and anyone curious about startups.",
+        "az": "Təsisçilər, təsisçi olmaq istəyənlər, mentorlar və startaplarla maraqlanan hər kəs."
+      },
+      "requirements": {
+        "en": "Free registration. Want to pitch? Mention it when you register.",
+        "az": "Pulsuz qeydiyyat. Təqdimat etmək istəyirsən? Qeydiyyatda qeyd et."
+      },
+      "category": "startups",
+      "tags": [
+        "Pitch",
+        "Founders",
+        "VC"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-pitch-night/1080/720",
+      "start": "2026-10-27T19:00:00",
+      "venueName": {
+        "en": "Caspian Ventures HQ",
+        "az": "Caspian Ventures Mərkəzi"
+      },
+      "address": "Nizami St 203, Baku",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.55,
+      "mapY": 0.48,
+      "format": "in_person",
+      "priceFrom": 0,
+      "capacity": 120,
+      "seatsLeft": 23,
+      "eventLanguage": "en",
+      "organizerId": "org-caspian",
+      "distanceKm": 1.8,
+      "goingCount": 97,
+      "attendeeIds": [
+        "u3",
+        "u5",
+        "u7"
+      ],
+      "showAttendees": true,
+      "rating": 4.7,
+      "agenda": [
+        {
+          "time": "19:00",
+          "title": {
+            "en": "Welcome & intros",
+            "az": "Qarşılama və tanışlıq"
+          }
+        },
+        {
+          "time": "19:20",
+          "title": {
+            "en": "Pitches (8 founders)",
+            "az": "Təqdimatlar (8 təsisçi)"
+          }
+        },
+        {
+          "time": "20:30",
+          "title": {
+            "en": "Networking",
+            "az": "Networking"
+          }
+        }
+      ],
+      "speakerIds": [
+        "sp-5",
+        "sp-2"
+      ]
+    },
+    {
+      "id": "ev-design-workshop",
+      "title": {
+        "en": "Hands-on Product Design",
+        "az": "Praktik Məhsul Dizaynı"
+      },
+      "summary": {
+        "en": "Go from blank canvas to clickable prototype in one afternoon.",
+        "az": "Bir günortadan boş kətandan kliklənən prototipə qədər get."
+      },
+      "description": {
+        "en": "A practical workshop on product thinking and interface design. We’ll sketch, wireframe, and build a working prototype together using modern tools.",
+        "az": "Məhsul düşüncəsi və interfeys dizaynı üzrə praktik seminar. Birlikdə eskiz çəkəcək, vayrfreym quracaq və müasir alətlərlə işlək prototip hazırlayacağıq."
+      },
+      "experience": {
+        "en": "Guided exercises, a real design brief, and feedback on your work.",
+        "az": "Təlimatlı çalışmalar, real dizayn tapşırığı və işinə rəy."
+      },
+      "whoShould": {
+        "en": "Beginner to intermediate designers, developers, and product curious folks.",
+        "az": "Başlanğıc və orta səviyyəli dizaynerlər, developerlər və məhsulla maraqlananlar."
+      },
+      "requirements": {
+        "en": "Bring a laptop. No prior design experience needed.",
+        "az": "Noutbuk gətir. Əvvəlcədən dizayn təcrübəsi lazım deyil."
+      },
+      "category": "education",
+      "tags": [
+        "Design",
+        "UX",
+        "Workshop"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-design-workshop/1080/720",
+      "start": "2026-10-25T14:00:00",
+      "venueName": {
+        "en": "ArtHouse Baku",
+        "az": "ArtHouse Baku"
+      },
+      "address": "Istiglaliyyat St 5, Baku",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.3,
+      "mapY": 0.6,
+      "format": "in_person",
+      "priceFrom": 25,
+      "capacity": 30,
+      "seatsLeft": 6,
+      "eventLanguage": "en",
+      "organizerId": "org-arthouse",
+      "distanceKm": 2.5,
+      "goingCount": 24,
+      "attendeeIds": [
+        "u2",
+        "u8"
+      ],
+      "showAttendees": true,
+      "rating": 4.9,
+      "agenda": [
+        {
+          "time": "14:00",
+          "title": {
+            "en": "Design thinking basics",
+            "az": "Dizayn təfəkkürünün əsasları"
+          }
+        },
+        {
+          "time": "15:00",
+          "title": {
+            "en": "Wireframing sprint",
+            "az": "Vayrfreym sprinti"
+          }
+        },
+        {
+          "time": "16:30",
+          "title": {
+            "en": "Prototype & critique",
+            "az": "Prototip və təhlil"
+          }
+        }
+      ],
+      "speakerIds": [
+        "sp-3"
+      ]
+    },
+    {
+      "id": "ev-lang-exchange",
+      "title": {
+        "en": "Polyglot Night",
+        "az": "Poliqlot Gecəsi"
+      },
+      "summary": {
+        "en": "Practice a new language over tea with friendly locals.",
+        "az": "Mehriban yerlilərlə çay üstündə yeni dil məşq et."
+      },
+      "description": {
+        "en": "Rotating tables for English, Azerbaijani, Turkish, and Russian. Switch tables every 20 minutes and practice at your own level.",
+        "az": "İngilis, Azərbaycan, türk və rus dilləri üçün növbələşən masalar. Hər 20 dəqiqədən bir masa dəyiş və öz səviyyəndə məşq et."
+      },
+      "experience": {
+        "en": "Low-pressure conversation, ice-breaker games, and new friends.",
+        "az": "Təzyiqsiz söhbət, tanışlıq oyunları və yeni dostlar."
+      },
+      "whoShould": {
+        "en": "Anyone learning a language — all levels welcome.",
+        "az": "Dil öyrənən hər kəs — bütün səviyyələr xoş gəlir."
+      },
+      "requirements": {
+        "en": "Just bring yourself. Name tags and tea provided.",
+        "az": "Sadəcə özünü gətir. Ad nişanları və çay təmin olunur."
+      },
+      "category": "languageExchange",
+      "tags": [
+        "Languages",
+        "Social",
+        "Beginner friendly"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-polyglot/1080/720",
+      "start": "2026-10-22T19:30:00",
+      "venueName": {
+        "en": "Lingua Café",
+        "az": "Lingua Kafe"
+      },
+      "address": "Fountain Square, Baku",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.48,
+      "mapY": 0.55,
+      "format": "in_person",
+      "priceFrom": 0,
+      "capacity": 50,
+      "seatsLeft": 18,
+      "eventLanguage": "both",
+      "organizerId": "org-lingua",
+      "distanceKm": 1.1,
+      "goingCount": 38,
+      "attendeeIds": [
+        "u1",
+        "u4",
+        "u6",
+        "u7"
+      ],
+      "showAttendees": true,
+      "rating": 4.6,
+      "agenda": [
+        {
+          "time": "19:30",
+          "title": {
+            "en": "Welcome & ice-breakers",
+            "az": "Qarşılama və tanışlıq oyunları"
+          }
+        },
+        {
+          "time": "19:50",
+          "title": {
+            "en": "Rotating tables",
+            "az": "Növbələşən masalar"
+          }
+        },
+        {
+          "time": "21:00",
+          "title": {
+            "en": "Open mingling",
+            "az": "Sərbəst ünsiyyət"
+          }
+        }
+      ],
+      "speakerIds": []
+    },
+    {
+      "id": "ev-cleanup",
+      "title": {
+        "en": "Caspian Shore Cleanup",
+        "az": "Xəzər Sahili Təmizliyi"
+      },
+      "summary": {
+        "en": "Spend a morning giving the coastline back its shine.",
+        "az": "Bir səhəri sahilə parıltısını qaytarmağa həsr et."
+      },
+      "description": {
+        "en": "Join a community cleanup along the Baku Boulevard shoreline. Gloves, bags, and refreshments provided. Family and kids welcome.",
+        "az": "Bakı Bulvarı sahili boyunca icma təmizlik aksiyasına qoşul. Əlcək, torba və sərinləşdirici içkilər təmin olunur. Ailə və uşaqlar xoş gəlir."
+      },
+      "experience": {
+        "en": "Hands-on volunteering, good company, and a visibly cleaner shore.",
+        "az": "Praktik könüllülük, xoş yoldaşlıq və gözlə görünən təmiz sahil."
+      },
+      "whoShould": {
+        "en": "Everyone who cares about the environment. No experience needed.",
+        "az": "Ətraf mühitə əhəmiyyət verən hər kəs. Təcrübə lazım deyil."
+      },
+      "requirements": {
+        "en": "Wear comfortable shoes and clothes you don’t mind getting dirty.",
+        "az": "Rahat ayaqqabı və çirklənməsinə əhəmiyyət verməyəcəyin paltar geyin."
+      },
+      "category": "volunteering",
+      "tags": [
+        "Environment",
+        "Community",
+        "Family friendly"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-cleanup/1080/720",
+      "start": "2026-10-25T09:00:00",
+      "venueName": {
+        "en": "Baku Boulevard",
+        "az": "Bakı Bulvarı"
+      },
+      "address": "Seaside Boulevard, Baku",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.6,
+      "mapY": 0.72,
+      "format": "in_person",
+      "priceFrom": 0,
+      "capacity": 200,
+      "seatsLeft": 134,
+      "eventLanguage": "az",
+      "organizerId": "org-green",
+      "distanceKm": 2,
+      "goingCount": 66,
+      "attendeeIds": [
+        "u3",
+        "u5"
+      ],
+      "showAttendees": true,
+      "rating": 4.9,
+      "agenda": [
+        {
+          "time": "09:00",
+          "title": {
+            "en": "Gather & gear up",
+            "az": "Toplaşma və hazırlıq"
+          }
+        },
+        {
+          "time": "09:30",
+          "title": {
+            "en": "Cleanup sweep",
+            "az": "Təmizlik"
+          }
+        },
+        {
+          "time": "11:30",
+          "title": {
+            "en": "Wrap-up & refreshments",
+            "az": "Yekun və sərinləşdirici"
+          }
+        }
+      ],
+      "speakerIds": []
+    },
+    {
+      "id": "ev-yoga",
+      "title": {
+        "en": "Sunrise Rooftop Yoga",
+        "az": "Gündoğuşu Damüstü Yoqa"
+      },
+      "summary": {
+        "en": "Start your day with breath, movement, and a city skyline.",
+        "az": "Gününə nəfəs, hərəkət və şəhər mənzərəsi ilə başla."
+      },
+      "description": {
+        "en": "A gentle 60-minute flow suitable for all levels, on a rooftop overlooking the bay. Mats available on request.",
+        "az": "Körfəzə baxan damüstündə bütün səviyyələr üçün uyğun 60 dəqiqəlik yumşaq axın. İstəyə görə mat təmin olunur."
+      },
+      "experience": {
+        "en": "A calming flow, breathing work, and a fresh-start feeling.",
+        "az": "Sakitləşdirici axın, nəfəs işi və yenidən başlama hissi."
+      },
+      "whoShould": {
+        "en": "All levels, including complete beginners.",
+        "az": "Bütün səviyyələr, tam başlanğıclar daxil."
+      },
+      "requirements": {
+        "en": "Bring water. Mats can be rented at the door.",
+        "az": "Su gətir. Matları girişdə kirayələmək olar."
+      },
+      "category": "wellness",
+      "tags": [
+        "Yoga",
+        "Morning",
+        "Wellness"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-yoga/1080/720",
+      "start": "2026-10-19T07:00:00",
+      "venueName": {
+        "en": "Pulse Studio Rooftop",
+        "az": "Pulse Studio Damüstü"
+      },
+      "address": "Port Baku, Baku",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.68,
+      "mapY": 0.4,
+      "format": "in_person",
+      "priceFrom": 10,
+      "capacity": 25,
+      "seatsLeft": 0,
+      "eventLanguage": "both",
+      "organizerId": "org-pulse",
+      "distanceKm": 4.4,
+      "goingCount": 25,
+      "attendeeIds": [
+        "u6",
+        "u8"
+      ],
+      "showAttendees": true,
+      "rating": 4.7,
+      "agenda": [
+        {
+          "time": "07:00",
+          "title": {
+            "en": "Breathing & warm-up",
+            "az": "Nəfəs və qızışma"
+          }
+        },
+        {
+          "time": "07:15",
+          "title": {
+            "en": "Guided flow",
+            "az": "Təlimatlı axın"
+          }
+        },
+        {
+          "time": "07:50",
+          "title": {
+            "en": "Cool-down & tea",
+            "az": "Sakitləşmə və çay"
+          }
+        }
+      ],
+      "speakerIds": []
+    },
+    {
+      "id": "ev-hackathon",
+      "title": {
+        "en": "Baku Dev Hackathon",
+        "az": "Bakı Dev Hakatonu"
+      },
+      "summary": {
+        "en": "48 hours, one team, one idea worth shipping.",
+        "az": "48 saat, bir komanda, göndərməyə dəyər bir ideya."
+      },
+      "description": {
+        "en": "A weekend hackathon for builders of all stripes. Form a team, ship a prototype, and demo to judges. Mentors on-site, prizes for the top three.",
+        "az": "Hər cür qurucular üçün həftəsonu hakatonu. Komanda qur, prototip göndər və münsiflərə təqdim et. Yerində mentorlar, ilk üçlük üçün mükafatlar."
+      },
+      "experience": {
+        "en": "Team formation, mentorship, an all-night build, and a demo finale.",
+        "az": "Komanda qurma, mentorluq, bütün gecə iş və demo finalı."
+      },
+      "whoShould": {
+        "en": "Developers, designers, and product people. Beginners welcome.",
+        "az": "Developerlər, dizaynerlər və məhsul üzrə mütəxəssislər. Başlanğıclar xoş gəlir."
+      },
+      "requirements": {
+        "en": "Bring a laptop and charger. Teams of 2–5. Food provided.",
+        "az": "Noutbuk və şarj cihazı gətir. 2–5 nəfərlik komandalar. Yemək təmin olunur."
+      },
+      "category": "technology",
+      "tags": [
+        "Hackathon",
+        "Teams",
+        "Prizes"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-hackathon/1080/720",
+      "start": "2026-11-07T10:00:00",
+      "end": "2026-11-09T16:00:00",
+      "venueName": {
+        "en": "Innovation Hub",
+        "az": "İnnovasiya Mərkəzi"
+      },
+      "address": "Baku White City, Baku",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.72,
+      "mapY": 0.58,
+      "format": "in_person",
+      "priceFrom": 0,
+      "capacity": 150,
+      "seatsLeft": 41,
+      "eventLanguage": "en",
+      "organizerId": "org-devclub",
+      "distanceKm": 6.1,
+      "goingCount": 109,
+      "attendeeIds": [
+        "u1",
+        "u3",
+        "u5",
+        "u7"
+      ],
+      "showAttendees": true,
+      "rating": 4.8,
+      "agenda": [
+        {
+          "time": "Fri 10:00",
+          "title": {
+            "en": "Kickoff & team forming",
+            "az": "Açılış və komanda qurma"
+          }
+        },
+        {
+          "time": "Sat",
+          "title": {
+            "en": "Build + mentorship",
+            "az": "İş + mentorluq"
+          }
+        },
+        {
+          "time": "Sun 14:00",
+          "title": {
+            "en": "Demos & judging",
+            "az": "Demolar və qiymətləndirmə"
+          }
+        }
+      ],
+      "speakerIds": [
+        "sp-4",
+        "sp-1"
+      ]
+    },
+    {
+      "id": "ev-jazz",
+      "title": {
+        "en": "Old City Jazz Night",
+        "az": "İçərişəhər Caz Gecəsi"
+      },
+      "summary": {
+        "en": "Live standards and warm improv in a candle-lit room.",
+        "az": "Şam işığında zalda canlı standartlar və isti improvizasiya."
+      },
+      "description": {
+        "en": "An intimate evening of live jazz with a trio and special guests, followed by an open jam for anyone who wants to sit in.",
+        "az": "Trio və xüsusi qonaqlarla canlı cazın səmimi axşamı, ardınca qoşulmaq istəyən hər kəs üçün açıq jam."
+      },
+      "experience": {
+        "en": "Live music, a cozy room, and an open-jam finale.",
+        "az": "Canlı musiqi, rahat zal və açıq jam finalı."
+      },
+      "whoShould": {
+        "en": "Music lovers and anyone after a mellow night out.",
+        "az": "Musiqisevərlər və sakit bir axşam axtaranlar."
+      },
+      "requirements": {
+        "en": "Over 18. Drinks available for purchase.",
+        "az": "18 yaşdan yuxarı. İçkiləri yerində almaq olar."
+      },
+      "category": "music",
+      "tags": [
+        "Jazz",
+        "Live music",
+        "Nightlife"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-jazz/1080/720",
+      "start": "2026-10-23T21:00:00",
+      "venueName": {
+        "en": "Old City Jazz Club",
+        "az": "İçərişəhər Caz Klubu"
+      },
+      "address": "Icherisheher, Baku",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.38,
+      "mapY": 0.5,
+      "format": "in_person",
+      "priceFrom": 20,
+      "capacity": 80,
+      "seatsLeft": 12,
+      "eventLanguage": "both",
+      "organizerId": "org-jazz",
+      "distanceKm": 1.4,
+      "goingCount": 68,
+      "attendeeIds": [
+        "u2",
+        "u4"
+      ],
+      "showAttendees": true,
+      "rating": 4.8,
+      "agenda": [
+        {
+          "time": "21:00",
+          "title": {
+            "en": "Trio set",
+            "az": "Trio çıxışı"
+          }
+        },
+        {
+          "time": "22:00",
+          "title": {
+            "en": "Special guest",
+            "az": "Xüsusi qonaq"
+          }
+        },
+        {
+          "time": "22:45",
+          "title": {
+            "en": "Open jam",
+            "az": "Açıq jam"
+          }
+        }
+      ],
+      "speakerIds": [
+        "sp-6"
+      ]
+    },
+    {
+      "id": "ev-ai-workshop",
+      "title": {
+        "en": "Intro to Applied AI",
+        "az": "Tətbiqi AI-ya Giriş"
+      },
+      "summary": {
+        "en": "Build your first useful AI feature, live and online.",
+        "az": "İlk faydalı AI funksiyanı canlı və onlayn qur."
+      },
+      "description": {
+        "en": "A beginner-friendly online workshop on using modern AI APIs. We’ll build a small working app together and talk through what actually matters in production.",
+        "az": "Müasir AI API-lərindən istifadə üzrə başlanğıclar üçün onlayn seminar. Birlikdə kiçik işlək tətbiq quracaq və istehsalda əslində nəyin vacib olduğundan danışacağıq."
+      },
+      "experience": {
+        "en": "A guided live build you can follow along with and keep.",
+        "az": "İzləyə və saxlaya biləcəyin təlimatlı canlı iş."
+      },
+      "whoShould": {
+        "en": "Developers curious about AI. Basic coding helps.",
+        "az": "AI ilə maraqlanan developerlər. Əsas kodlaşdırma bilikləri kömək edir."
+      },
+      "requirements": {
+        "en": "A computer and internet. Join link sent after registration.",
+        "az": "Kompüter və internet. Qoşulma linki qeydiyyatdan sonra göndərilir."
+      },
+      "category": "technology",
+      "tags": [
+        "AI",
+        "Online",
+        "Workshop"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-ai-workshop/1080/720",
+      "start": "2026-10-29T18:00:00",
+      "venueName": {
+        "en": "Online (link after signup)",
+        "az": "Onlayn (qeydiyyatdan sonra link)"
+      },
+      "address": "Online",
+      "city": {
+        "en": "Online",
+        "az": "Onlayn"
+      },
+      "mapX": 0.5,
+      "mapY": 0.5,
+      "format": "online",
+      "priceFrom": 30,
+      "capacity": 100,
+      "seatsLeft": 57,
+      "eventLanguage": "en",
+      "organizerId": "org-tech",
+      "distanceKm": 0,
+      "goingCount": 43,
+      "attendeeIds": [],
+      "showAttendees": false,
+      "rating": 4.6,
+      "agenda": [
+        {
+          "time": "18:00",
+          "title": {
+            "en": "Setup & concepts",
+            "az": "Quraşdırma və anlayışlar"
+          }
+        },
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Live build",
+            "az": "Canlı iş"
+          }
+        },
+        {
+          "time": "19:30",
+          "title": {
+            "en": "Q&A",
+            "az": "Sual-cavab"
+          }
+        }
+      ],
+      "speakerIds": [
+        "sp-1"
+      ]
+    },
+    {
+      "id": "ev-founder-mixer",
+      "title": {
+        "en": "Founders Mixer",
+        "az": "Təsisçilər Görüşü"
+      },
+      "summary": {
+        "en": "Trade notes with people building things, over drinks.",
+        "az": "İçki üstündə nəsə quran insanlarla təcrübə mübadiləsi et."
+      },
+      "description": {
+        "en": "A relaxed evening for founders and operators to meet, swap war stories, and maybe find a collaborator or co-founder.",
+        "az": "Təsisçi və operatorların görüşməsi, təcrübə bölüşməsi və bəlkə də əməkdaş və ya həmtəsisçi tapması üçün rahat axşam."
+      },
+      "experience": {
+        "en": "Casual networking with name tags and conversation starters.",
+        "az": "Ad nişanları və söhbət başladıcıları ilə sərbəst networking."
+      },
+      "whoShould": {
+        "en": "Founders, operators, and people thinking of starting something.",
+        "az": "Təsisçilər, operatorlar və nəsə başlamaq haqqında düşünənlər."
+      },
+      "requirements": {
+        "en": "Free registration. Bring business cards if you have them.",
+        "az": "Pulsuz qeydiyyat. Varsa, vizit kartları gətir."
+      },
+      "category": "networking",
+      "tags": [
+        "Networking",
+        "Founders",
+        "Social"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-founder-mixer/1080/720",
+      "start": "2026-10-30T18:30:00",
+      "venueName": {
+        "en": "Founders Baku Loft",
+        "az": "Founders Baku Loft"
+      },
+      "address": "Port Baku Towers, Baku",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.66,
+      "mapY": 0.44,
+      "format": "in_person",
+      "priceFrom": 0,
+      "capacity": 90,
+      "seatsLeft": 31,
+      "eventLanguage": "en",
+      "organizerId": "org-founders",
+      "distanceKm": 4.2,
+      "goingCount": 59,
+      "attendeeIds": [
+        "u1",
+        "u5",
+        "u7",
+        "u8"
+      ],
+      "showAttendees": true,
+      "rating": 4.5,
+      "agenda": [
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Doors open",
+            "az": "Qapılar açılır"
+          }
+        },
+        {
+          "time": "19:00",
+          "title": {
+            "en": "Lightning intros",
+            "az": "Qısa tanışlıqlar"
+          }
+        },
+        {
+          "time": "19:30",
+          "title": {
+            "en": "Open networking",
+            "az": "Açıq networking"
+          }
+        }
+      ],
+      "speakerIds": [
+        "sp-5"
+      ]
+    },
+    {
+      "id": "ev-book-club",
+      "title": {
+        "en": "Modern Lit Book Club",
+        "az": "Müasir Ədəbiyyat Kitab Klubu"
+      },
+      "summary": {
+        "en": "This month: a short novel and a long conversation.",
+        "az": "Bu ay: qısa roman və uzun söhbət."
+      },
+      "description": {
+        "en": "A friendly monthly book club. Read the pick, bring your take, and discover what others saw in it. New members always welcome.",
+        "az": "Mehriban aylıq kitab klubu. Seçilmiş kitabı oxu, fikrini gətir və başqalarının orada nə gördüyünü kəşf et. Yeni üzvlər həmişə xoş gəlir."
+      },
+      "experience": {
+        "en": "Guided discussion, tea, and a vote on next month’s book.",
+        "az": "Təlimatlı müzakirə, çay və gələn ayın kitabı üçün səsvermə."
+      },
+      "whoShould": {
+        "en": "Readers of all kinds. Haven’t finished the book? Still come.",
+        "az": "Hər cür oxucular. Kitabı bitirməmisən? Yenə də gəl."
+      },
+      "requirements": {
+        "en": "Free. This month’s pick is posted in the community.",
+        "az": "Pulsuz. Bu ayın seçimi icmada yerləşdirilib."
+      },
+      "category": "books",
+      "tags": [
+        "Books",
+        "Discussion",
+        "Monthly"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-book-club/1080/720",
+      "start": "2026-10-26T16:00:00",
+      "venueName": {
+        "en": "ArtHouse Reading Room",
+        "az": "ArtHouse Oxu Zalı"
+      },
+      "address": "Istiglaliyyat St 5, Baku",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.31,
+      "mapY": 0.62,
+      "format": "in_person",
+      "priceFrom": 0,
+      "capacity": 20,
+      "seatsLeft": 7,
+      "eventLanguage": "both",
+      "organizerId": "org-arthouse",
+      "distanceKm": 2.5,
+      "goingCount": 13,
+      "attendeeIds": [
+        "u2",
+        "u6"
+      ],
+      "showAttendees": true,
+      "rating": 4.7,
+      "agenda": [
+        {
+          "time": "16:00",
+          "title": {
+            "en": "Warm welcome",
+            "az": "İsti qarşılama"
+          }
+        },
+        {
+          "time": "16:15",
+          "title": {
+            "en": "Discussion",
+            "az": "Müzakirə"
+          }
+        },
+        {
+          "time": "17:30",
+          "title": {
+            "en": "Next pick vote",
+            "az": "Növbəti seçim səsverməsi"
+          }
+        }
+      ],
+      "speakerIds": []
+    },
+    {
+      "id": "ev-support",
+      "title": {
+        "en": "Serenity Evening Circle",
+        "az": "Serenity Axşam Dairəsi"
+      },
+      "summary": {
+        "en": "A confidential, welcoming peer-support meeting.",
+        "az": "Məxfi və mehriban dəstək qrupu görüşü."
+      },
+      "description": {
+        "en": "An independently organized peer-support meeting in a calm, private setting. Attendance is confidential and names are never shared.",
+        "az": "Sakit və qapalı mühitdə müstəqil təşkil olunan dəstək qrupu görüşü. İştirak məxfidir və adlar heç vaxt paylaşılmır."
+      },
+      "experience": {
+        "en": "A quiet space to listen and share, at your own pace.",
+        "az": "Öz tempinlə dinləmək və bölüşmək üçün sakit məkan."
+      },
+      "whoShould": {
+        "en": "Anyone seeking a supportive, judgment-free space.",
+        "az": "Dəstəkləyici və mühakiməsiz məkan axtaran hər kəs."
+      },
+      "requirements": {
+        "en": "Please respect confidentiality. Location shared with confirmed attendees only.",
+        "az": "Zəhmət olmasa məxfiliyə hörmət et. Yer yalnız təsdiqlənmiş iştirakçılarla paylaşılır."
+      },
+      "category": "peerSupport",
+      "tags": [
+        "Support",
+        "Confidential",
+        "Wellbeing"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-serenity/1080/720",
+      "start": "2026-10-20T19:00:00",
+      "venueName": {
+        "en": "Private — shared on confirmation",
+        "az": "Məxfi — təsdiqdə paylaşılır"
+      },
+      "address": "Baku (private)",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.5,
+      "mapY": 0.5,
+      "format": "in_person",
+      "priceFrom": 0,
+      "capacity": 15,
+      "seatsLeft": 5,
+      "eventLanguage": "both",
+      "organizerId": "org-serenity",
+      "distanceKm": 2.2,
+      "goingCount": 0,
+      "attendeeIds": [],
+      "showAttendees": false,
+      "sensitive": true,
+      "agenda": [
+        {
+          "time": "19:00",
+          "title": {
+            "en": "Welcome & guidelines",
+            "az": "Qarşılama və qaydalar"
+          }
+        },
+        {
+          "time": "19:15",
+          "title": {
+            "en": "Open sharing",
+            "az": "Açıq bölüşmə"
+          }
+        },
+        {
+          "time": "20:15",
+          "title": {
+            "en": "Close",
+            "az": "Yekun"
+          }
+        }
+      ],
+      "speakerIds": []
+    },
+    {
+      "id": "ev-5aside",
+      "title": {
+        "en": "5-a-side Football Meetup",
+        "az": "Mini Futbol Görüşü"
+      },
+      "summary": {
+        "en": "Casual pickup football — just show up and play.",
+        "az": "Sərbəst futbol — sadəcə gəl və oyna."
+      },
+      "description": {
+        "en": "A friendly weekly 5-a-side game on an indoor pitch. Teams are mixed on the night; all skill levels welcome.",
+        "az": "Qapalı meydançada mehriban həftəlik mini futbol oyunu. Komandalar yerində qarışdırılır; bütün səviyyələr xoş gəlir."
+      },
+      "experience": {
+        "en": "A fast, fun game and a few new teammates.",
+        "az": "Sürətli, əyləncəli oyun və bir neçə yeni komanda yoldaşı."
+      },
+      "whoShould": {
+        "en": "Anyone who likes to run around. No team needed.",
+        "az": "Qaçmağı sevən hər kəs. Komanda lazım deyil."
+      },
+      "requirements": {
+        "en": "Bring sports shoes. Bibs and ball provided.",
+        "az": "İdman ayaqqabısı gətir. Köynəklər və top təmin olunur."
+      },
+      "category": "sports",
+      "tags": [
+        "Football",
+        "Weekly",
+        "Social"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-football/1080/720",
+      "start": "2026-10-21T20:00:00",
+      "venueName": {
+        "en": "Pulse Indoor Pitch",
+        "az": "Pulse Qapalı Meydança"
+      },
+      "address": "Ganjlik, Baku",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.58,
+      "mapY": 0.3,
+      "format": "in_person",
+      "priceFrom": 8,
+      "capacity": 20,
+      "seatsLeft": 4,
+      "eventLanguage": "az",
+      "organizerId": "org-pulse",
+      "distanceKm": 3,
+      "goingCount": 16,
+      "attendeeIds": [
+        "u3",
+        "u5",
+        "u7"
+      ],
+      "showAttendees": true,
+      "rating": 4.6,
+      "agenda": [
+        {
+          "time": "20:00",
+          "title": {
+            "en": "Warm-up",
+            "az": "Qızışma"
+          }
+        },
+        {
+          "time": "20:15",
+          "title": {
+            "en": "Matches",
+            "az": "Oyunlar"
+          }
+        },
+        {
+          "time": "21:30",
+          "title": {
+            "en": "Cool-down",
+            "az": "Sakitləşmə"
+          }
+        }
+      ],
+      "speakerIds": []
+    },
+    {
+      "id": "ev-marketing",
+      "title": {
+        "en": "Growth Marketing Masterclass",
+        "az": "Böyümə Marketinqi Masterklassı"
+      },
+      "summary": {
+        "en": "Frameworks for finding and keeping your first 1,000 users.",
+        "az": "İlk 1000 istifadəçini tapmaq və saxlamaq üçün çərçivələr."
+      },
+      "description": {
+        "en": "A practical online masterclass on acquisition, retention, and measuring what matters. Includes a workbook and templates you keep.",
+        "az": "Cəlb etmə, saxlama və vacib olanı ölçmə üzrə praktik onlayn masterklass. Saxladığın iş kitabı və şablonları da daxildir."
+      },
+      "experience": {
+        "en": "Real frameworks, worked examples, and a live Q&A.",
+        "az": "Real çərçivələr, işlənmiş nümunələr və canlı sual-cavab."
+      },
+      "whoShould": {
+        "en": "Founders, marketers, and product people.",
+        "az": "Təsisçilər, marketoloqlar və məhsul üzrə mütəxəssislər."
+      },
+      "requirements": {
+        "en": "Internet access. Recording shared with registrants.",
+        "az": "İnternet girişi. Yazı qeydiyyatdan keçənlərlə paylaşılır."
+      },
+      "category": "business",
+      "tags": [
+        "Marketing",
+        "Growth",
+        "Online"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-marketing/1080/720",
+      "start": "2026-11-03T17:00:00",
+      "venueName": {
+        "en": "Online (link after signup)",
+        "az": "Onlayn (qeydiyyatdan sonra link)"
+      },
+      "address": "Online",
+      "city": {
+        "en": "Online",
+        "az": "Onlayn"
+      },
+      "mapX": 0.5,
+      "mapY": 0.5,
+      "format": "online",
+      "priceFrom": 40,
+      "capacity": 200,
+      "seatsLeft": 121,
+      "eventLanguage": "en",
+      "organizerId": "org-founders",
+      "distanceKm": 0,
+      "goingCount": 79,
+      "attendeeIds": [],
+      "showAttendees": false,
+      "rating": 4.7,
+      "agenda": [
+        {
+          "time": "17:00",
+          "title": {
+            "en": "Acquisition",
+            "az": "Cəlb etmə"
+          }
+        },
+        {
+          "time": "17:45",
+          "title": {
+            "en": "Retention",
+            "az": "Saxlama"
+          }
+        },
+        {
+          "time": "18:30",
+          "title": {
+            "en": "Measurement & Q&A",
+            "az": "Ölçmə və sual-cavab"
+          }
+        }
+      ],
+      "speakerIds": [
+        "sp-2"
+      ]
+    },
+    {
+      "id": "ev-photo-walk",
+      "title": {
+        "en": "Old City Photo Walk",
+        "az": "İçərişəhər Foto Gəzintisi"
+      },
+      "summary": {
+        "en": "Chase light and texture through ancient streets.",
+        "az": "Qədim küçələrdə işıq və fakturanın ardınca get."
+      },
+      "description": {
+        "en": "A guided photo walk through Icherisheher. Bring any camera — phone included — and learn to see light, lines, and moments.",
+        "az": "İçərişəhər boyunca təlimatlı foto gəzintisi. İstənilən kamera gətir — telefon daxil — və işığı, xətləri və anları görməyi öyrən."
+      },
+      "experience": {
+        "en": "Hands-on shooting tips and a shared photo review at the end.",
+        "az": "Praktik çəkiliş məsləhətləri və sonda ortaq foto baxışı."
+      },
+      "whoShould": {
+        "en": "Anyone who likes taking pictures, any level.",
+        "az": "Şəkil çəkməyi sevən hər kəs, istənilən səviyyə."
+      },
+      "requirements": {
+        "en": "Any camera or phone. Comfortable walking shoes.",
+        "az": "İstənilən kamera və ya telefon. Rahat gəzinti ayaqqabısı."
+      },
+      "category": "art",
+      "tags": [
+        "Photography",
+        "Walk",
+        "Beginner friendly"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-photo-walk/1080/720",
+      "start": "2026-10-26T10:00:00",
+      "venueName": {
+        "en": "Maiden Tower entrance",
+        "az": "Qız Qalası girişi"
+      },
+      "address": "Icherisheher, Baku",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.36,
+      "mapY": 0.52,
+      "format": "in_person",
+      "priceFrom": 12,
+      "capacity": 18,
+      "seatsLeft": 9,
+      "eventLanguage": "both",
+      "organizerId": "org-arthouse",
+      "distanceKm": 1.3,
+      "goingCount": 11,
+      "attendeeIds": [
+        "u4",
+        "u8"
+      ],
+      "showAttendees": true,
+      "rating": 4.8,
+      "agenda": [
+        {
+          "time": "10:00",
+          "title": {
+            "en": "Meet & basics",
+            "az": "Görüş və əsaslar"
+          }
+        },
+        {
+          "time": "10:30",
+          "title": {
+            "en": "Walk & shoot",
+            "az": "Gəzinti və çəkiliş"
+          }
+        },
+        {
+          "time": "12:00",
+          "title": {
+            "en": "Photo review",
+            "az": "Foto baxışı"
+          }
+        }
+      ],
+      "speakerIds": [
+        "sp-3"
+      ]
+    },
+    {
+      "id": "ev-career-fair",
+      "title": {
+        "en": "Remote Career Fair",
+        "az": "Uzaqdan Karyera Yarmarkası"
+      },
+      "summary": {
+        "en": "Meet hiring teams from across the region — from your desk.",
+        "az": "Region üzrə işə götürən komandalarla tanış ol — öz masandan."
+      },
+      "description": {
+        "en": "An online career fair with virtual booths, short talks on getting hired, and live chat with recruiters.",
+        "az": "Virtual stendlər, işə qəbul üzrə qısa çıxışlar və rekruterlərlə canlı söhbətlə onlayn karyera yarmarkası."
+      },
+      "experience": {
+        "en": "Browse booths, join talks, and message recruiters directly.",
+        "az": "Stendlərə bax, çıxışlara qoşul və rekruterlərə birbaşa yaz."
+      },
+      "whoShould": {
+        "en": "Job seekers, students, and career switchers.",
+        "az": "İş axtaranlar, tələbələr və karyera dəyişənlər."
+      },
+      "requirements": {
+        "en": "Have your CV ready. Join link sent after registration.",
+        "az": "CV-ni hazır saxla. Qoşulma linki qeydiyyatdan sonra göndərilir."
+      },
+      "category": "networking",
+      "tags": [
+        "Careers",
+        "Online",
+        "Hiring"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-career-fair/1080/720",
+      "start": "2026-11-05T15:00:00",
+      "venueName": {
+        "en": "Online (link after signup)",
+        "az": "Onlayn (qeydiyyatdan sonra link)"
+      },
+      "address": "Online",
+      "city": {
+        "en": "Online",
+        "az": "Onlayn"
+      },
+      "mapX": 0.5,
+      "mapY": 0.5,
+      "format": "online",
+      "priceFrom": 0,
+      "capacity": 500,
+      "seatsLeft": 300,
+      "eventLanguage": "both",
+      "organizerId": "org-founders",
+      "distanceKm": 0,
+      "goingCount": 168,
+      "attendeeIds": [],
+      "showAttendees": false,
+      "rating": 4.4,
+      "agenda": [
+        {
+          "time": "15:00",
+          "title": {
+            "en": "Booths open",
+            "az": "Stendlər açılır"
+          }
+        },
+        {
+          "time": "15:30",
+          "title": {
+            "en": "Hiring talks",
+            "az": "İşə qəbul çıxışları"
+          }
+        },
+        {
+          "time": "16:30",
+          "title": {
+            "en": "Recruiter chats",
+            "az": "Rekruter söhbətləri"
+          }
+        }
+      ],
+      "speakerIds": [
+        "sp-5"
+      ]
+    },
+    {
+      "id": "ev-past-ux-talk",
+      "title": {
+        "en": "Designing for Trust",
+        "az": "Etibar üçün Dizayn"
+      },
+      "summary": {
+        "en": "A talk on building interfaces people actually rely on.",
+        "az": "İnsanların həqiqətən güvəndiyi interfeyslər qurmaq haqqında çıxış."
+      },
+      "description": {
+        "en": "An evening talk and discussion on trust, clarity, and ethics in product design.",
+        "az": "Məhsul dizaynında etibar, aydınlıq və etika haqqında axşam çıxışı və müzakirə."
+      },
+      "experience": {
+        "en": "A focused talk followed by open discussion.",
+        "az": "Fokuslanmış çıxış, ardınca açıq müzakirə."
+      },
+      "whoShould": {
+        "en": "Designers and product people.",
+        "az": "Dizaynerlər və məhsul üzrə mütəxəssislər."
+      },
+      "requirements": {
+        "en": "None.",
+        "az": "Yoxdur."
+      },
+      "category": "art",
+      "tags": [
+        "Design",
+        "Talk"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-ux-talk/1080/720",
+      "start": "2026-09-18T19:00:00",
+      "venueName": {
+        "en": "ArtHouse Baku",
+        "az": "ArtHouse Baku"
+      },
+      "address": "Istiglaliyyat St 5, Baku",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.3,
+      "mapY": 0.6,
+      "format": "in_person",
+      "priceFrom": 10,
+      "capacity": 60,
+      "seatsLeft": 0,
+      "eventLanguage": "en",
+      "organizerId": "org-arthouse",
+      "distanceKm": 2.5,
+      "goingCount": 58,
+      "attendeeIds": [
+        "u2",
+        "u8"
+      ],
+      "showAttendees": true,
+      "rating": 4.9,
+      "agenda": [],
+      "speakerIds": [
+        "sp-3"
+      ]
+    },
+    {
+      "id": "ev-past-charity-run",
+      "title": {
+        "en": "Autumn Charity Run",
+        "az": "Payız Xeyriyyə Qaçışı"
+      },
+      "summary": {
+        "en": "A 5K run that raised funds for local shelters.",
+        "az": "Yerli sığınacaqlar üçün vəsait toplayan 5K qaçış."
+      },
+      "description": {
+        "en": "A friendly community 5K along the boulevard, all proceeds to local shelters.",
+        "az": "Bulvar boyunca mehriban icma 5K qaçışı, bütün vəsait yerli sığınacaqlara."
+      },
+      "experience": {
+        "en": "A morning run, medals, and a good cause.",
+        "az": "Səhər qaçışı, medallar və xeyirxah məqsəd."
+      },
+      "whoShould": {
+        "en": "Runners of all levels.",
+        "az": "Bütün səviyyələrdən qaçışçılar."
+      },
+      "requirements": {
+        "en": "Running shoes.",
+        "az": "Qaçış ayaqqabısı."
+      },
+      "category": "sports",
+      "tags": [
+        "Run",
+        "Charity"
+      ],
+      "cover": "https://picsum.photos/seed/toplas-charity-run/1080/720",
+      "start": "2026-09-28T08:00:00",
+      "venueName": {
+        "en": "Baku Boulevard",
+        "az": "Bakı Bulvarı"
+      },
+      "address": "Seaside Boulevard, Baku",
+      "city": {
+        "en": "Baku, Azerbaijan",
+        "az": "Bakı, Azərbaycan"
+      },
+      "mapX": 0.6,
+      "mapY": 0.72,
+      "format": "in_person",
+      "priceFrom": 5,
+      "capacity": 300,
+      "seatsLeft": 0,
+      "eventLanguage": "both",
+      "organizerId": "org-green",
+      "distanceKm": 2,
+      "goingCount": 280,
+      "attendeeIds": [
+        "u3",
+        "u5"
+      ],
+      "showAttendees": true,
+      "rating": 4.8,
+      "agenda": [],
+      "speakerIds": []
+    }
+  ],
+  "communities": [
+    {
+      "id": "cm-devs",
+      "name": {
+        "en": "Baku Developers",
+        "az": "Bakı Developerləri"
+      },
+      "description": {
+        "en": "A home for engineers of every stack. Code nights, study groups, and job leads.",
+        "az": "Hər stekdən mühəndislər üçün ev. Kod gecələri, təlim qrupları və iş imkanları."
+      },
+      "category": "technology",
+      "image": "https://picsum.photos/seed/toplas-cm-devs/400/400",
+      "cover": "https://picsum.photos/seed/toplas-cm-devs-cover/1080/500",
+      "memberCount": 3240,
+      "membership": "public",
+      "joined": true,
+      "upcomingEventIds": [
+        "ev-hackathon",
+        "ev-ai-workshop"
+      ],
+      "moderators": [
+        "u1",
+        "u3"
+      ],
+      "rules": {
+        "en": "Be kind. No spam. Keep job posts in the #jobs thread.",
+        "az": "Mehriban ol. Spam yox. İş elanlarını #jobs mövzusunda saxla."
+      },
+      "announcements": [
+        {
+          "id": "an-1",
+          "author": "Baku Dev Club",
+          "text": {
+            "en": "Hackathon teams forming now — drop your skills in the thread.",
+            "az": "Hakaton komandaları indi formalaşır — bacarıqlarını mövzuya yaz."
+          },
+          "date": "2026-10-16T12:00:00"
+        }
+      ],
+      "posts": [
+        {
+          "id": "po-1",
+          "author": "Kamran",
+          "avatar": "https://i.pravatar.cc/240?img=3",
+          "text": {
+            "en": "Anyone pairing on the AI workshop prep this week?",
+            "az": "Bu həftə AI seminarı hazırlığında cütləşmək istəyən varmı?"
+          },
+          "date": "2026-10-17T09:30:00",
+          "likes": 12
+        },
+        {
+          "id": "po-2",
+          "author": "Günel",
+          "avatar": "https://i.pravatar.cc/240?img=29",
+          "text": {
+            "en": "Sharing my notes from last month’s TypeScript night 📓",
+            "az": "Keçən ayki TypeScript gecəsindən qeydlərimi paylaşıram 📓"
+          },
+          "date": "2026-10-15T18:10:00",
+          "likes": 28
+        }
+      ]
+    },
+    {
+      "id": "cm-founders",
+      "name": {
+        "en": "Founders Circle",
+        "az": "Təsisçilər Dairəsi"
+      },
+      "description": {
+        "en": "Early-stage founders swapping lessons, intros, and the occasional co-founder.",
+        "az": "Dərslər, tanışlıqlar və bəzən həmtəsisçi mübadiləsi edən erkən mərhələ təsisçilər."
+      },
+      "category": "entrepreneurship",
+      "image": "https://picsum.photos/seed/toplas-cm-founders/400/400",
+      "cover": "https://picsum.photos/seed/toplas-cm-founders-cover/1080/500",
+      "memberCount": 890,
+      "membership": "application",
+      "joined": false,
+      "upcomingEventIds": [
+        "ev-founder-mixer",
+        "ev-startup-pitch"
+      ],
+      "moderators": [
+        "u5"
+      ],
+      "rules": {
+        "en": "Founders and operators only. Keep it confidential and constructive.",
+        "az": "Yalnız təsisçilər və operatorlar. Məxfi və konstruktiv saxla."
+      },
+      "announcements": [
+        {
+          "id": "an-2",
+          "author": "Founders Baku",
+          "text": {
+            "en": "Applications for the autumn cohort close Friday.",
+            "az": "Payız qrupu üçün müraciətlər cümə günü bağlanır."
+          },
+          "date": "2026-10-14T10:00:00"
+        }
+      ],
+      "posts": []
+    },
+    {
+      "id": "cm-lingua",
+      "name": {
+        "en": "Polyglots of Baku",
+        "az": "Bakı Poliqlotları"
+      },
+      "description": {
+        "en": "Language learners meeting weekly to practice and make friends.",
+        "az": "Məşq etmək və dostlaşmaq üçün həftəlik görüşən dil öyrənənlər."
+      },
+      "category": "languageExchange",
+      "image": "https://picsum.photos/seed/toplas-cm-lingua/400/400",
+      "cover": "https://picsum.photos/seed/toplas-cm-lingua-cover/1080/500",
+      "memberCount": 1520,
+      "membership": "public",
+      "joined": true,
+      "upcomingEventIds": [
+        "ev-lang-exchange"
+      ],
+      "moderators": [
+        "u6"
+      ],
+      "rules": {
+        "en": "All languages and levels welcome. Patience over perfection.",
+        "az": "Bütün dillər və səviyyələr xoş gəlir. Mükəmməllikdən çox səbir."
+      },
+      "announcements": [],
+      "posts": [
+        {
+          "id": "po-3",
+          "author": "Aytən",
+          "avatar": "https://i.pravatar.cc/240?img=45",
+          "text": {
+            "en": "Looking for a Turkish ↔ English partner for weekly calls!",
+            "az": "Həftəlik zənglər üçün türk ↔ ingilis partnyoru axtarıram!"
+          },
+          "date": "2026-10-16T20:00:00",
+          "likes": 9
+        }
+      ]
+    },
+    {
+      "id": "cm-green",
+      "name": {
+        "en": "Green Volunteers",
+        "az": "Yaşıl Könüllülər"
+      },
+      "description": {
+        "en": "People who show up for the planet — cleanups, planting, and awareness.",
+        "az": "Planet üçün gələn insanlar — təmizlik, əkin və maarifləndirmə."
+      },
+      "category": "volunteering",
+      "image": "https://picsum.photos/seed/toplas-cm-green/400/400",
+      "cover": "https://picsum.photos/seed/toplas-cm-green-cover/1080/500",
+      "memberCount": 2110,
+      "membership": "public",
+      "joined": false,
+      "upcomingEventIds": [
+        "ev-cleanup"
+      ],
+      "moderators": [
+        "u4"
+      ],
+      "rules": {
+        "en": "Leave places better than you found them.",
+        "az": "Yerləri tapdığından daha yaxşı qoyub get."
+      },
+      "announcements": [],
+      "posts": []
+    },
+    {
+      "id": "cm-art",
+      "name": {
+        "en": "Creative Baku",
+        "az": "Yaradıcı Bakı"
+      },
+      "description": {
+        "en": "Photographers, designers, and makers sharing work and running meetups.",
+        "az": "İş paylaşan və görüşlər keçirən fotoqraflar, dizaynerlər və yaradıcılar."
+      },
+      "category": "art",
+      "image": "https://picsum.photos/seed/toplas-cm-art/400/400",
+      "cover": "https://picsum.photos/seed/toplas-cm-art-cover/1080/500",
+      "memberCount": 1340,
+      "membership": "public",
+      "joined": false,
+      "upcomingEventIds": [
+        "ev-photo-walk",
+        "ev-design-workshop"
+      ],
+      "moderators": [
+        "u8"
+      ],
+      "rules": {
+        "en": "Share, critique kindly, credit creators.",
+        "az": "Paylaş, mehribanca tənqid et, yaradıcılara istinad et."
+      },
+      "announcements": [],
+      "posts": []
+    },
+    {
+      "id": "cm-serenity",
+      "name": {
+        "en": "Serenity Circle",
+        "az": "Serenity Dairəsi"
+      },
+      "description": {
+        "en": "A private peer-support community. Membership is by application; members stay anonymous.",
+        "az": "Qapalı dəstək qrupu icması. Üzvlük müraciətlədir; üzvlər anonim qalır."
+      },
+      "category": "peerSupport",
+      "image": "https://picsum.photos/seed/toplas-cm-serenity/400/400",
+      "cover": "https://picsum.photos/seed/toplas-cm-serenity-cover/1080/500",
+      "memberCount": 0,
+      "membership": "private",
+      "joined": false,
+      "upcomingEventIds": [
+        "ev-support"
+      ],
+      "moderators": [],
+      "rules": {
+        "en": "Confidentiality is absolute. What is shared here stays here.",
+        "az": "Məxfilik mütləqdir. Burada paylaşılan burada qalır."
+      },
+      "announcements": [],
+      "posts": [],
+      "sensitive": true
+    }
+  ],
+  "organizers": [
+    {
+      "id": "org-tech",
+      "name": "Baku Tech Collective",
+      "avatar": "https://i.pravatar.cc/240?img=11",
+      "cover": "https://picsum.photos/seed/toplas-org-tech/1080/500",
+      "verified": true,
+      "rating": 4.8,
+      "reviewCount": 214,
+      "followers": 12840,
+      "category": "technology",
+      "bio": {
+        "en": "The community behind the region’s biggest tech gatherings. Conferences, meetups, and hands-on workshops.",
+        "az": "Regionun ən böyük texnologiya toplantılarının arxasındakı icma. Konfranslar, görüşlər və praktik seminarlar."
+      }
+    },
+    {
+      "id": "org-caspian",
+      "name": "Caspian Ventures",
+      "avatar": "https://i.pravatar.cc/240?img=12",
+      "cover": "https://picsum.photos/seed/toplas-org-caspian/1080/500",
+      "verified": true,
+      "rating": 4.7,
+      "reviewCount": 96,
+      "followers": 5230,
+      "category": "startups",
+      "bio": {
+        "en": "An early-stage venture studio hosting pitch nights and founder programs across the Caspian region.",
+        "az": "Xəzər regionunda təqdimat gecələri və təsisçi proqramları keçirən erkən mərhələ venture studiyası."
+      }
+    },
+    {
+      "id": "org-arthouse",
+      "name": "ArtHouse Baku",
+      "avatar": "https://i.pravatar.cc/240?img=5",
+      "cover": "https://picsum.photos/seed/toplas-org-arthouse/1080/500",
+      "verified": true,
+      "rating": 4.9,
+      "reviewCount": 143,
+      "followers": 7420,
+      "category": "art",
+      "bio": {
+        "en": "A creative space for exhibitions, design workshops, and film nights in the heart of the city.",
+        "az": "Şəhərin mərkəzində sərgilər, dizayn seminarları və film gecələri üçün yaradıcı məkan."
+      }
+    },
+    {
+      "id": "org-lingua",
+      "name": "Lingua Baku",
+      "avatar": "https://i.pravatar.cc/240?img=9",
+      "cover": "https://picsum.photos/seed/toplas-org-lingua/1080/500",
+      "verified": false,
+      "rating": 4.6,
+      "reviewCount": 61,
+      "followers": 2980,
+      "category": "languageExchange",
+      "bio": {
+        "en": "Weekly language exchange meetups for learners of English, Azerbaijani, Turkish, and Russian.",
+        "az": "İngilis, Azərbaycan, türk və rus dilini öyrənənlər üçün həftəlik dil mübadiləsi görüşləri."
+      }
+    },
+    {
+      "id": "org-green",
+      "name": "Green Azerbaijan",
+      "avatar": "https://i.pravatar.cc/240?img=16",
+      "cover": "https://picsum.photos/seed/toplas-org-green/1080/500",
+      "verified": true,
+      "rating": 4.9,
+      "reviewCount": 188,
+      "followers": 9110,
+      "category": "volunteering",
+      "bio": {
+        "en": "A volunteer network running cleanups, tree-planting, and environmental education projects.",
+        "az": "Təmizlik aksiyaları, ağacəkmə və ekoloji maarifləndirmə layihələri həyata keçirən könüllü şəbəkə."
+      }
+    },
+    {
+      "id": "org-pulse",
+      "name": "Pulse Studio",
+      "avatar": "https://i.pravatar.cc/240?img=20",
+      "cover": "https://picsum.photos/seed/toplas-org-pulse/1080/500",
+      "verified": true,
+      "rating": 4.7,
+      "reviewCount": 112,
+      "followers": 4360,
+      "category": "wellness",
+      "isBusiness": true,
+      "bio": {
+        "en": "A boutique fitness and wellness studio offering group classes and open community sessions.",
+        "az": "Qrup məşğələləri və açıq icma sessiyaları təklif edən butik fitnes və sağlamlıq studiyası."
+      }
+    },
+    {
+      "id": "org-devclub",
+      "name": "Baku Dev Club",
+      "avatar": "https://i.pravatar.cc/240?img=13",
+      "cover": "https://picsum.photos/seed/toplas-org-devclub/1080/500",
+      "verified": false,
+      "rating": 4.5,
+      "reviewCount": 74,
+      "followers": 3510,
+      "category": "technology",
+      "bio": {
+        "en": "A grassroots developer community running code nights, study groups, and hackathons.",
+        "az": "Kod gecələri, təlim qrupları və hakatonlar keçirən könüllü developer icması."
+      }
+    },
+    {
+      "id": "org-jazz",
+      "name": "Old City Jazz",
+      "avatar": "https://i.pravatar.cc/240?img=32",
+      "cover": "https://picsum.photos/seed/toplas-org-jazz/1080/500",
+      "verified": true,
+      "rating": 4.8,
+      "reviewCount": 203,
+      "followers": 6680,
+      "category": "music",
+      "isBusiness": true,
+      "bio": {
+        "en": "Intimate live jazz nights and open jam sessions in a historic venue.",
+        "az": "Tarixi məkanda səmimi canlı caz gecələri və açıq jam sessiyaları."
+      }
+    },
+    {
+      "id": "org-serenity",
+      "name": "Serenity Circle",
+      "avatar": "https://i.pravatar.cc/240?img=47",
+      "cover": "https://picsum.photos/seed/toplas-org-serenity/1080/500",
+      "verified": true,
+      "rating": 5,
+      "reviewCount": 0,
+      "followers": 0,
+      "category": "peerSupport",
+      "bio": {
+        "en": "Independently organized peer-support meetings. Confidential, welcoming, and judgment-free.",
+        "az": "Müstəqil təşkil olunan dəstək qrupu görüşləri. Məxfi, mehriban və mühakiməsiz."
+      }
+    },
+    {
+      "id": "org-founders",
+      "name": "Founders Baku",
+      "avatar": "https://i.pravatar.cc/240?img=14",
+      "cover": "https://picsum.photos/seed/toplas-org-founders/1080/500",
+      "verified": true,
+      "rating": 4.6,
+      "reviewCount": 88,
+      "followers": 4015,
+      "category": "entrepreneurship",
+      "bio": {
+        "en": "A founder community for networking, co-founder matching, and startup storytelling.",
+        "az": "Networking, həmtəsisçi axtarışı və startap hekayələri üçün təsisçi icması."
+      }
+    }
+  ],
+  "speakers": [
+    {
+      "id": "sp-1",
+      "name": "Leyla Məmmədova",
+      "role": {
+        "en": "AI Research Lead, Caspian Labs",
+        "az": "Süni İntellekt üzrə Rəhbər, Caspian Labs"
+      },
+      "avatar": "https://i.pravatar.cc/240?img=25"
+    },
+    {
+      "id": "sp-2",
+      "name": "Rauf Əliyev",
+      "role": {
+        "en": "Founder & CEO, Nexa",
+        "az": "Təsisçi və CEO, Nexa"
+      },
+      "avatar": "https://i.pravatar.cc/240?img=15"
+    },
+    {
+      "id": "sp-3",
+      "name": "Nigar Hüseynli",
+      "role": {
+        "en": "Product Designer, Studio Mono",
+        "az": "Məhsul Dizayneri, Studio Mono"
+      },
+      "avatar": "https://i.pravatar.cc/240?img=44"
+    },
+    {
+      "id": "sp-4",
+      "name": "Tural Qasımov",
+      "role": {
+        "en": "Staff Engineer, Ulduz",
+        "az": "Baş Mühəndis, Ulduz"
+      },
+      "avatar": "https://i.pravatar.cc/240?img=33"
+    },
+    {
+      "id": "sp-5",
+      "name": "Aysel Rəhimova",
+      "role": {
+        "en": "Partner, Caspian Ventures",
+        "az": "Partnyor, Caspian Ventures"
+      },
+      "avatar": "https://i.pravatar.cc/240?img=26"
+    },
+    {
+      "id": "sp-6",
+      "name": "Emin Sultanov",
+      "role": {
+        "en": "Jazz Pianist & Composer",
+        "az": "Caz Pianoçusu və Bəstəkar"
+      },
+      "avatar": "https://i.pravatar.cc/240?img=51"
+    }
+  ],
+  "mentors": [
+    {
+      "id": "mt-1",
+      "name": "Aysel Rəhimova",
+      "avatar": "https://i.pravatar.cc/240?img=26",
+      "expertise": {
+        "en": "Startups & Fundraising",
+        "az": "Startaplar və Vəsait Toplama"
+      },
+      "bio": {
+        "en": "Partner at Caspian Ventures. 10+ years helping founders go from idea to seed round.",
+        "az": "Caspian Ventures-də partnyor. 10+ il təsisçilərə ideyadan seed raunduna qədər köməklik."
+      },
+      "languages": [
+        "Azerbaijani",
+        "English",
+        "Russian"
+      ],
+      "sessionFormats": [
+        {
+          "en": "1:1 video call",
+          "az": "1:1 video zəng"
+        },
+        {
+          "en": "Group office hours",
+          "az": "Qrup ofis saatları"
+        }
+      ],
+      "availability": {
+        "en": "Evenings, Tue–Thu",
+        "az": "Axşamlar, Ç.a–C.a"
+      },
+      "pricePerSession": 40,
+      "rating": 4.9,
+      "reviewCount": 62
+    },
+    {
+      "id": "mt-2",
+      "name": "Tural Qasımov",
+      "avatar": "https://i.pravatar.cc/240?img=33",
+      "expertise": {
+        "en": "Software Engineering",
+        "az": "Proqram Mühəndisliyi"
+      },
+      "bio": {
+        "en": "Staff engineer. Mentors on system design, interviews, and career growth.",
+        "az": "Baş mühəndis. Sistem dizaynı, müsahibələr və karyera inkişafı üzrə mentorluq."
+      },
+      "languages": [
+        "Azerbaijani",
+        "English"
+      ],
+      "sessionFormats": [
+        {
+          "en": "1:1 video call",
+          "az": "1:1 video zəng"
+        }
+      ],
+      "availability": {
+        "en": "Weekends",
+        "az": "Həftə sonları"
+      },
+      "pricePerSession": 30,
+      "rating": 4.8,
+      "reviewCount": 48
+    },
+    {
+      "id": "mt-3",
+      "name": "Nigar Hüseynli",
+      "avatar": "https://i.pravatar.cc/240?img=44",
+      "expertise": {
+        "en": "Product & UX Design",
+        "az": "Məhsul və UX Dizaynı"
+      },
+      "bio": {
+        "en": "Product designer helping people build portfolios and break into design.",
+        "az": "İnsanlara portfel qurmaqda və dizayna başlamaqda kömək edən məhsul dizayneri."
+      },
+      "languages": [
+        "Azerbaijani",
+        "English",
+        "Turkish"
+      ],
+      "sessionFormats": [
+        {
+          "en": "Portfolio review",
+          "az": "Portfel baxışı"
+        },
+        {
+          "en": "1:1 video call",
+          "az": "1:1 video zəng"
+        }
+      ],
+      "availability": {
+        "en": "Flexible",
+        "az": "Çevik"
+      },
+      "pricePerSession": 25,
+      "rating": 5,
+      "reviewCount": 37
+    },
+    {
+      "id": "mt-4",
+      "name": "Rauf Əliyev",
+      "avatar": "https://i.pravatar.cc/240?img=15",
+      "expertise": {
+        "en": "Go-to-market & Growth",
+        "az": "Bazara Çıxış və Böyümə"
+      },
+      "bio": {
+        "en": "Founder & CEO of Nexa. Shares hard-won lessons on growth and early sales.",
+        "az": "Nexa-nın təsisçisi və CEO-su. Böyümə və erkən satış üzrə çətin qazanılmış dərsləri bölüşür."
+      },
+      "languages": [
+        "Azerbaijani",
+        "English"
+      ],
+      "sessionFormats": [
+        {
+          "en": "1:1 video call",
+          "az": "1:1 video zəng"
+        }
+      ],
+      "availability": {
+        "en": "Limited slots",
+        "az": "Məhdud yerlər"
+      },
+      "pricePerSession": 50,
+      "rating": 4.7,
+      "reviewCount": 29
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "op-1",
+      "type": "hackathon",
+      "title": {
+        "en": "Baku Dev Hackathon",
+        "az": "Bakı Dev Hakatonu"
+      },
+      "org": "Baku Dev Club",
+      "category": "technology",
+      "cover": "https://picsum.photos/seed/toplas-op-hackathon/1080/720",
+      "requiredSkills": [
+        "JavaScript",
+        "Design",
+        "Product"
+      ],
+      "availability": {
+        "en": "Nov 7–9, 2026",
+        "az": "7–9 Noyabr 2026"
+      },
+      "deadline": "2026-11-01"
+    },
+    {
+      "id": "op-2",
+      "type": "pitch",
+      "title": {
+        "en": "Caspian Pitch Night",
+        "az": "Xəzər Təqdimat Gecəsi"
+      },
+      "org": "Caspian Ventures",
+      "category": "startups",
+      "cover": "https://picsum.photos/seed/toplas-op-pitch/1080/720",
+      "requiredSkills": [
+        "Pitching",
+        "Storytelling"
+      ],
+      "availability": {
+        "en": "Oct 27, 2026",
+        "az": "27 Oktyabr 2026"
+      },
+      "deadline": "2026-10-24"
+    },
+    {
+      "id": "op-3",
+      "type": "co_founder",
+      "title": {
+        "en": "Technical co-founder wanted",
+        "az": "Texniki həmtəsisçi axtarılır"
+      },
+      "org": "FinFlow (early stage)",
+      "category": "entrepreneurship",
+      "cover": "https://picsum.photos/seed/toplas-op-cofounder/1080/720",
+      "requiredSkills": [
+        "Backend",
+        "Mobile",
+        "Fintech"
+      ],
+      "availability": {
+        "en": "Flexible · equity",
+        "az": "Çevik · pay"
+      }
+    },
+    {
+      "id": "op-4",
+      "type": "skill_exchange",
+      "title": {
+        "en": "Python ↔ Design swap",
+        "az": "Python ↔ Dizayn mübadiləsi"
+      },
+      "org": "Community listing",
+      "category": "education",
+      "cover": "https://picsum.photos/seed/toplas-op-skill/1080/720",
+      "requiredSkills": [
+        "Python",
+        "Figma"
+      ],
+      "availability": {
+        "en": "Weekly · online or in person",
+        "az": "Həftəlik · onlayn və ya canlı"
+      }
+    },
+    {
+      "id": "op-5",
+      "type": "networking",
+      "title": {
+        "en": "Founders Mixer",
+        "az": "Təsisçilər Görüşü"
+      },
+      "org": "Founders Baku",
+      "category": "networking",
+      "cover": "https://picsum.photos/seed/toplas-op-mixer/1080/720",
+      "requiredSkills": [],
+      "availability": {
+        "en": "Oct 30, 2026",
+        "az": "30 Oktyabr 2026"
+      }
+    },
+    {
+      "id": "op-6",
+      "type": "mentorship",
+      "title": {
+        "en": "1:1 Career mentoring",
+        "az": "1:1 Karyera mentorluğu"
+      },
+      "org": "Toplaş Mentors",
+      "category": "personalDev",
+      "cover": "https://picsum.photos/seed/toplas-op-mentor/1080/720",
+      "requiredSkills": [],
+      "availability": {
+        "en": "Book a slot",
+        "az": "Vaxt sifariş et"
+      },
+      "price": 25
+    }
+  ],
+  "businesses": [
+    {
+      "id": "bz-brew",
+      "name": "Brew & Bloom",
+      "logo": "https://picsum.photos/seed/toplas-logo-brew/240/240",
+      "cover": "https://picsum.photos/seed/toplas-bz-brew/1080/500",
+      "description": {
+        "en": "A specialty coffee house hosting board-game nights, tastings, and open-mic evenings.",
+        "az": "Stolüstü oyun gecələri, dequstasiyalar və açıq mikrofon axşamları keçirən ixtisaslaşmış qəhvəxana."
+      },
+      "category": "food",
+      "address": "Nizami St 88, Baku",
+      "hours": {
+        "en": "Mon–Sun · 08:00–23:00",
+        "az": "B.e–B. · 08:00–23:00"
+      },
+      "followers": 2310,
+      "following": false,
+      "verified": true,
+      "rating": 4.8,
+      "reviewCount": 412,
+      "upcomingEventIds": [
+        "ev-book-club"
+      ],
+      "rewards": [
+        {
+          "id": "rw-1",
+          "title": {
+            "en": "Free filter coffee",
+            "az": "Pulsuz filtr qəhvə"
+          },
+          "detail": {
+            "en": "Get a free filter coffee after attending 3 eligible events.",
+            "az": "3 uyğun tədbirə qatıldıqdan sonra pulsuz filtr qəhvə qazan."
+          },
+          "eligibility": {
+            "en": "Attend any 3 Toplaş events this month.",
+            "az": "Bu ay istənilən 3 Toplaş tədbirinə qatıl."
+          },
+          "expires": "2026-11-30",
+          "terms": {
+            "en": "One per customer. Dine-in only. Cannot be combined with other offers.",
+            "az": "Müştəri başına bir dənə. Yalnız yerində. Digər təkliflərlə birləşdirilə bilməz."
+          },
+          "code": "BREW-3EVENTS",
+          "points": 30
+        },
+        {
+          "id": "rw-2",
+          "title": {
+            "en": "15% off pastries",
+            "az": "Şirniyyatlara 15% endirim"
+          },
+          "detail": {
+            "en": "Members get 15% off all pastries, every day.",
+            "az": "Üzvlər hər gün bütün şirniyyatlara 15% endirim əldə edir."
+          },
+          "eligibility": {
+            "en": "Follow Brew & Bloom on Toplaş.",
+            "az": "Toplaş-da Brew & Bloom-u izlə."
+          },
+          "expires": "2026-12-31",
+          "terms": {
+            "en": "Show this code at checkout.",
+            "az": "Bu kodu kassada göstər."
+          },
+          "code": "BLOOM-15"
+        }
+      ]
+    },
+    {
+      "id": "bz-pulse",
+      "name": "Pulse Studio",
+      "logo": "https://picsum.photos/seed/toplas-logo-pulse/240/240",
+      "cover": "https://picsum.photos/seed/toplas-bz-pulse/1080/500",
+      "description": {
+        "en": "Boutique fitness and wellness studio with group classes and open community sessions.",
+        "az": "Qrup məşğələləri və açıq icma sessiyaları olan butik fitnes və sağlamlıq studiyası."
+      },
+      "category": "wellness",
+      "address": "Port Baku, Baku",
+      "hours": {
+        "en": "Mon–Sat · 06:00–22:00",
+        "az": "B.e–Ş. · 06:00–22:00"
+      },
+      "followers": 4360,
+      "following": true,
+      "verified": true,
+      "rating": 4.7,
+      "reviewCount": 298,
+      "upcomingEventIds": [
+        "ev-yoga",
+        "ev-5aside"
+      ],
+      "rewards": [
+        {
+          "id": "rw-3",
+          "title": {
+            "en": "First class free",
+            "az": "İlk məşğələ pulsuz"
+          },
+          "detail": {
+            "en": "New members get their first group class on us.",
+            "az": "Yeni üzvlər ilk qrup məşğələsini bizdən hədiyyə alır."
+          },
+          "eligibility": {
+            "en": "New Pulse members only.",
+            "az": "Yalnız yeni Pulse üzvləri."
+          },
+          "expires": "2026-12-15",
+          "terms": {
+            "en": "Valid once. ID required.",
+            "az": "Bir dəfə etibarlıdır. Şəxsiyyət vəsiqəsi tələb olunur."
+          },
+          "code": "PULSE-FIRST",
+          "points": 20
+        }
+      ]
+    },
+    {
+      "id": "bz-jazz",
+      "name": "Old City Jazz",
+      "logo": "https://picsum.photos/seed/toplas-logo-jazz/240/240",
+      "cover": "https://picsum.photos/seed/toplas-bz-jazz/1080/500",
+      "description": {
+        "en": "Historic venue for live jazz nights, jam sessions, and private events.",
+        "az": "Canlı caz gecələri, jam sessiyaları və özəl tədbirlər üçün tarixi məkan."
+      },
+      "category": "music",
+      "address": "Icherisheher, Baku",
+      "hours": {
+        "en": "Wed–Sun · 19:00–01:00",
+        "az": "Ç.a–B. · 19:00–01:00"
+      },
+      "followers": 6680,
+      "following": false,
+      "verified": true,
+      "rating": 4.8,
+      "reviewCount": 356,
+      "upcomingEventIds": [
+        "ev-jazz"
+      ],
+      "rewards": [
+        {
+          "id": "rw-4",
+          "title": {
+            "en": "Loyalty: 5th ticket free",
+            "az": "Sadiqlik: 5-ci bilet pulsuz"
+          },
+          "detail": {
+            "en": "Collect 4 jazz-night stamps, get the 5th ticket free.",
+            "az": "4 caz gecəsi möhürü topla, 5-ci bileti pulsuz al."
+          },
+          "eligibility": {
+            "en": "Attend 4 jazz nights.",
+            "az": "4 caz gecəsinə qatıl."
+          },
+          "expires": "2027-03-31",
+          "terms": {
+            "en": "Stamps tracked in-app. Non-transferable.",
+            "az": "Möhürlər tətbiqdə izlənir. Başqasına verilə bilməz."
+          },
+          "code": "JAZZ-LOYAL5",
+          "points": 50
+        }
+      ]
+    }
+  ],
+  "notifications": [
+    {
+      "id": "nt-1",
+      "category": "bookings",
+      "icon": "ticket-outline",
+      "title": {
+        "en": "Ticket confirmed",
+        "az": "Bilet təsdiqləndi"
+      },
+      "body": {
+        "en": "Your spot for Baku Tech Summit is confirmed. See you there!",
+        "az": "Bakı Texnologiya Sammiti üçün yerin təsdiqləndi. Orada görüşərik!"
+      },
+      "time": "2026-10-18T09:10:00",
+      "read": false
+    },
+    {
+      "id": "nt-2",
+      "category": "events",
+      "icon": "calendar-outline",
+      "title": {
+        "en": "Starting soon",
+        "az": "Tezliklə başlayır"
+      },
+      "body": {
+        "en": "Sunrise Rooftop Yoga starts tomorrow at 07:00.",
+        "az": "Gündoğuşu Damüstü Yoqa sabah 07:00-da başlayır."
+      },
+      "time": "2026-10-18T08:00:00",
+      "read": false
+    },
+    {
+      "id": "nt-3",
+      "category": "messages",
+      "icon": "chatbubble-ellipses-outline",
+      "title": {
+        "en": "New message",
+        "az": "Yeni mesaj"
+      },
+      "body": {
+        "en": "Kamran: See you at the hackathon kickoff!",
+        "az": "Kamran: Hakaton açılışında görüşərik!"
+      },
+      "time": "2026-10-18T10:24:00",
+      "read": false
+    },
+    {
+      "id": "nt-4",
+      "category": "communities",
+      "icon": "people-outline",
+      "title": {
+        "en": "New announcement",
+        "az": "Yeni elan"
+      },
+      "body": {
+        "en": "Baku Developers: Hackathon teams forming now.",
+        "az": "Bakı Developerləri: Hakaton komandaları indi formalaşır."
+      },
+      "time": "2026-10-16T12:00:00",
+      "read": true
+    },
+    {
+      "id": "nt-5",
+      "category": "opportunities",
+      "icon": "briefcase-outline",
+      "title": {
+        "en": "Deadline approaching",
+        "az": "Son tarix yaxınlaşır"
+      },
+      "body": {
+        "en": "Applications for the autumn founder cohort close Friday.",
+        "az": "Payız təsisçi qrupu üçün müraciətlər cümə günü bağlanır."
+      },
+      "time": "2026-10-15T10:00:00",
+      "read": true
+    },
+    {
+      "id": "nt-6",
+      "category": "events",
+      "icon": "sparkles-outline",
+      "title": {
+        "en": "New event you might like",
+        "az": "Bəyənə biləcəyin yeni tədbir"
+      },
+      "body": {
+        "en": "Caspian Pitch Night was added near you.",
+        "az": "Yaxınlığında Xəzər Təqdimat Gecəsi əlavə olundu."
+      },
+      "time": "2026-10-14T16:30:00",
+      "read": true
+    },
+    {
+      "id": "nt-7",
+      "category": "bookings",
+      "icon": "hourglass-outline",
+      "title": {
+        "en": "You’re on the waitlist",
+        "az": "Növbədəsən"
+      },
+      "body": {
+        "en": "Sunrise Rooftop Yoga is full — we’ll notify you if a spot opens.",
+        "az": "Gündoğuşu Damüstü Yoqa doludur — yer açılsa xəbər verəcəyik."
+      },
+      "time": "2026-10-13T19:00:00",
+      "read": true
+    },
+    {
+      "id": "nt-8",
+      "category": "messages",
+      "icon": "person-add-outline",
+      "title": {
+        "en": "Connection request",
+        "az": "Əlaqə sorğusu"
+      },
+      "body": {
+        "en": "Elvin wants to connect with you.",
+        "az": "Elvin səninlə əlaqə qurmaq istəyir."
+      },
+      "time": "2026-10-16T14:30:00",
+      "read": true
+    }
+  ],
+  "conversations": [
+    {
+      "id": "cv-1",
+      "kind": "dm",
+      "title": "Kamran Əliyev",
+      "avatar": "https://i.pravatar.cc/240?img=3",
+      "lastMessage": {
+        "en": "See you at the hackathon kickoff!",
+        "az": "Hakaton açılışında görüşərik!"
+      },
+      "timestamp": "2026-10-18T10:24:00",
+      "unread": 2,
+      "messages": [
+        {
+          "id": "m1",
+          "fromMe": false,
+          "text": {
+            "en": "Hey! Are you going to the hackathon?",
+            "az": "Salam! Hakatona gedirsən?"
+          },
+          "time": "10:20"
+        },
+        {
+          "id": "m2",
+          "fromMe": true,
+          "text": {
+            "en": "Yes! Already registered.",
+            "az": "Bəli! Artıq qeydiyyatdan keçdim."
+          },
+          "time": "10:22"
+        },
+        {
+          "id": "m3",
+          "fromMe": false,
+          "text": {
+            "en": "See you at the hackathon kickoff!",
+            "az": "Hakaton açılışında görüşərik!"
+          },
+          "time": "10:24"
+        }
+      ]
+    },
+    {
+      "id": "cv-2",
+      "kind": "event",
+      "title": {
+        "en": "Baku Tech Summit",
+        "az": "Bakı Texnologiya Sammiti"
+      },
+      "avatar": "https://i.pravatar.cc/240?img=11",
+      "lastMessage": {
+        "en": "Organizer: Doors open at 18:30 sharp.",
+        "az": "Təşkilatçı: Qapılar dəqiq 18:30-da açılır."
+      },
+      "timestamp": "2026-10-18T09:00:00",
+      "unread": 1,
+      "eventId": "ev-tech-summit",
+      "isOrganizerAnnouncement": true,
+      "messages": [
+        {
+          "id": "m4",
+          "fromMe": false,
+          "author": "Baku Tech Collective",
+          "text": {
+            "en": "Welcome everyone! Doors open at 18:30 sharp. Bring your ticket QR.",
+            "az": "Hamıya xoş gəldiniz! Qapılar dəqiq 18:30-da açılır. Bilet QR-ınızı gətirin."
+          },
+          "time": "09:00"
+        },
+        {
+          "id": "m5",
+          "fromMe": false,
+          "author": "Səbinə",
+          "text": {
+            "en": "Can’t wait 🙌",
+            "az": "Səbirsizliklə gözləyirəm 🙌"
+          },
+          "time": "09:05"
+        }
+      ]
+    },
+    {
+      "id": "cv-3",
+      "kind": "event",
+      "title": {
+        "en": "Polyglot Night",
+        "az": "Poliqlot Gecəsi"
+      },
+      "avatar": "https://i.pravatar.cc/240?img=9",
+      "lastMessage": {
+        "en": "Günel: I’ll bring the card games!",
+        "az": "Günel: Kart oyunlarını mən gətirərəm!"
+      },
+      "timestamp": "2026-10-17T21:12:00",
+      "unread": 0,
+      "eventId": "ev-lang-exchange",
+      "messages": [
+        {
+          "id": "m6",
+          "fromMe": false,
+          "author": "Günel",
+          "text": {
+            "en": "I’ll bring the card games!",
+            "az": "Kart oyunlarını mən gətirərəm!"
+          },
+          "time": "21:12"
+        }
+      ]
+    },
+    {
+      "id": "cv-4",
+      "kind": "request",
+      "title": "Elvin Nəbiyev",
+      "avatar": "https://i.pravatar.cc/240?img=52",
+      "lastMessage": {
+        "en": "Hi, we met at the founders mixer — connect?",
+        "az": "Salam, təsisçilər görüşündə tanış olduq — əlaqə quraq?"
+      },
+      "timestamp": "2026-10-16T14:30:00",
+      "unread": 1,
+      "messages": [
+        {
+          "id": "m7",
+          "fromMe": false,
+          "text": {
+            "en": "Hi, we met at the founders mixer — connect?",
+            "az": "Salam, təsisçilər görüşündə tanış olduq — əlaqə quraq?"
+          },
+          "time": "14:30"
+        }
+      ]
+    },
+    {
+      "id": "cv-5",
+      "kind": "request",
+      "title": "Lamiyə Quliyeva",
+      "avatar": "https://i.pravatar.cc/240?img=41",
+      "lastMessage": {
+        "en": "Loved your talk notes — would love to chat.",
+        "az": "Çıxış qeydlərin çox xoşuma gəldi — söhbət etmək istərdim."
+      },
+      "timestamp": "2026-10-15T11:05:00",
+      "unread": 0,
+      "messages": [
+        {
+          "id": "m8",
+          "fromMe": false,
+          "text": {
+            "en": "Loved your talk notes — would love to chat.",
+            "az": "Çıxış qeydlərin çox xoşuma gəldi — söhbət etmək istərdim."
+          },
+          "time": "11:05"
+        }
+      ]
+    }
+  ],
+  "bookings": [
+    {
+      "id": "bk-1",
+      "eventId": "ev-tech-summit",
+      "status": "confirmed",
+      "ticketType": {
+        "en": "General Admission",
+        "az": "Ümumi Giriş"
+      },
+      "price": 15,
+      "qr": "TOPLAS-TECH-7F3A9",
+      "purchasedAt": "2026-10-12T14:00:00"
+    },
+    {
+      "id": "bk-2",
+      "eventId": "ev-startup-pitch",
+      "status": "confirmed",
+      "ticketType": {
+        "en": "Free RSVP",
+        "az": "Pulsuz RSVP"
+      },
+      "price": 0,
+      "qr": "TOPLAS-PITCH-2B8C1",
+      "purchasedAt": "2026-10-13T09:30:00"
+    },
+    {
+      "id": "bk-3",
+      "eventId": "ev-jazz",
+      "status": "pending",
+      "ticketType": {
+        "en": "Standard",
+        "az": "Standart"
+      },
+      "price": 20,
+      "qr": "TOPLAS-JAZZ-5D1E7",
+      "purchasedAt": "2026-10-17T20:15:00"
+    },
+    {
+      "id": "bk-4",
+      "eventId": "ev-yoga",
+      "status": "waitlisted",
+      "ticketType": {
+        "en": "Drop-in",
+        "az": "Birdəfəlik"
+      },
+      "price": 10,
+      "qr": "TOPLAS-YOGA-9A4F2",
+      "purchasedAt": "2026-10-13T19:00:00"
+    },
+    {
+      "id": "bk-5",
+      "eventId": "ev-past-ux-talk",
+      "status": "attended",
+      "ticketType": {
+        "en": "General Admission",
+        "az": "Ümumi Giriş"
+      },
+      "price": 10,
+      "qr": "TOPLAS-UX-3C6B8",
+      "purchasedAt": "2026-09-10T11:00:00"
+    },
+    {
+      "id": "bk-6",
+      "eventId": "ev-past-charity-run",
+      "status": "attended",
+      "ticketType": {
+        "en": "5K Entry",
+        "az": "5K Qeydiyyatı"
+      },
+      "price": 5,
+      "qr": "TOPLAS-RUN-1E9D4",
+      "purchasedAt": "2026-09-20T08:00:00"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rv-1",
+      "eventTitle": {
+        "en": "Designing for Trust",
+        "az": "Etibar üçün Dizayn"
+      },
+      "rating": 5,
+      "text": {
+        "en": "Thoughtful talk, great discussion afterward. Left with real takeaways.",
+        "az": "Düşündürücü çıxış, sonrasında əla müzakirə. Real nəticələrlə ayrıldım."
+      },
+      "date": "2026-09-19T08:00:00"
+    },
+    {
+      "id": "rv-2",
+      "eventTitle": {
+        "en": "Autumn Charity Run",
+        "az": "Payız Xeyriyyə Qaçışı"
+      },
+      "rating": 5,
+      "text": {
+        "en": "Beautiful morning, well organized, and for a good cause.",
+        "az": "Gözəl səhər, yaxşı təşkil olunub və xeyirxah məqsəd üçün."
+      },
+      "date": "2026-09-28T12:00:00"
+    }
+  ]
+}

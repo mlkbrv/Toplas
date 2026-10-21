@@ -1,0 +1,145 @@
+import type { Mentor, Opportunity } from './types';
+import { avatar, cover } from './images';
+
+export const OPPORTUNITIES: Opportunity[] = [
+  {
+    id: 'op-1',
+    type: 'hackathon',
+    title: { en: 'Baku Dev Hackathon', az: 'Bakı Dev Hakatonu' },
+    org: 'Baku Dev Club',
+    category: 'technology',
+    cover: cover('op-hackathon'),
+    requiredSkills: ['JavaScript', 'Design', 'Product'],
+    availability: { en: 'Nov 7–9, 2026', az: '7–9 Noyabr 2026' },
+    deadline: '2026-11-01',
+  },
+  {
+    id: 'op-2',
+    type: 'pitch',
+    title: { en: 'Caspian Pitch Night', az: 'Xəzər Təqdimat Gecəsi' },
+    org: 'Caspian Ventures',
+    category: 'startups',
+    cover: cover('op-pitch'),
+    requiredSkills: ['Pitching', 'Storytelling'],
+    availability: { en: 'Oct 27, 2026', az: '27 Oktyabr 2026' },
+    deadline: '2026-10-24',
+  },
+  {
+    id: 'op-3',
+    type: 'co_founder',
+    title: { en: 'Technical co-founder wanted', az: 'Texniki həmtəsisçi axtarılır' },
+    org: 'FinFlow (early stage)',
+    category: 'entrepreneurship',
+    cover: cover('op-cofounder'),
+    requiredSkills: ['Backend', 'Mobile', 'Fintech'],
+    availability: { en: 'Flexible · equity', az: 'Çevik · pay' },
+  },
+  {
+    id: 'op-4',
+    type: 'skill_exchange',
+    title: { en: 'Python ↔ Design swap', az: 'Python ↔ Dizayn mübadiləsi' },
+    org: 'Community listing',
+    category: 'education',
+    cover: cover('op-skill'),
+    requiredSkills: ['Python', 'Figma'],
+    availability: { en: 'Weekly · online or in person', az: 'Həftəlik · onlayn və ya canlı' },
+  },
+  {
+    id: 'op-5',
+    type: 'networking',
+    title: { en: 'Founders Mixer', az: 'Təsisçilər Görüşü' },
+    org: 'Founders Baku',
+    category: 'networking',
+    cover: cover('op-mixer'),
+    requiredSkills: [],
+    availability: { en: 'Oct 30, 2026', az: '30 Oktyabr 2026' },
+  },
+  {
+    id: 'op-6',
+    type: 'mentorship',
+    title: { en: '1:1 Career mentoring', az: '1:1 Karyera mentorluğu' },
+    org: 'Toplaş Mentors',
+    category: 'personalDev',
+    cover: cover('op-mentor'),
+    requiredSkills: [],
+    availability: { en: 'Book a slot', az: 'Vaxt sifariş et' },
+    price: 25,
+  },
+];
+
+export const MENTORS: Mentor[] = [
+  {
+    id: 'mt-1',
+    name: 'Aysel Rəhimova',
+    avatar: avatar(26),
+    expertise: { en: 'Startups & Fundraising', az: 'Startaplar və Vəsait Toplama' },
+    bio: {
+      en: 'Partner at Caspian Ventures. 10+ years helping founders go from idea to seed round.',
+      az: 'Caspian Ventures-də partnyor. 10+ il təsisçilərə ideyadan seed raunduna qədər köməklik.',
+    },
+    languages: ['Azerbaijani', 'English', 'Russian'],
+    sessionFormats: [
+      { en: '1:1 video call', az: '1:1 video zəng' },
+      { en: 'Group office hours', az: 'Qrup ofis saatları' },
+    ],
+    availability: { en: 'Evenings, Tue–Thu', az: 'Axşamlar, Ç.a–C.a' },
+    pricePerSession: 40,
+    rating: 4.9,
+    reviewCount: 62,
+  },
+  {
+    id: 'mt-2',
+    name: 'Tural Qasımov',
+    avatar: avatar(33),
+    expertise: { en: 'Software Engineering', az: 'Proqram Mühəndisliyi' },
+    bio: {
+      en: 'Staff engineer. Mentors on system design, interviews, and career growth.',
+      az: 'Baş mühəndis. Sistem dizaynı, müsahibələr və karyera inkişafı üzrə mentorluq.',
+    },
+    languages: ['Azerbaijani', 'English'],
+    sessionFormats: [{ en: '1:1 video call', az: '1:1 video zəng' }],
+    availability: { en: 'Weekends', az: 'Həftə sonları' },
+    pricePerSession: 30,
+    rating: 4.8,
+    reviewCount: 48,
+  },
+  {
+    id: 'mt-3',
+    name: 'Nigar Hüseynli',
+    avatar: avatar(44),
+    expertise: { en: 'Product & UX Design', az: 'Məhsul və UX Dizaynı' },
+    bio: {
+      en: 'Product designer helping people build portfolios and break into design.',
+      az: 'İnsanlara portfel qurmaqda və dizayna başlamaqda kömək edən məhsul dizayneri.',
+    },
+    languages: ['Azerbaijani', 'English', 'Turkish'],
+    sessionFormats: [
+      { en: 'Portfolio review', az: 'Portfel baxışı' },
+      { en: '1:1 video call', az: '1:1 video zəng' },
+    ],
+    availability: { en: 'Flexible', az: 'Çevik' },
+    pricePerSession: 25,
+    rating: 5.0,
+    reviewCount: 37,
+  },
+  {
+    id: 'mt-4',
+    name: 'Rauf Əliyev',
+    avatar: avatar(15),
+    expertise: { en: 'Go-to-market & Growth', az: 'Bazara Çıxış və Böyümə' },
+    bio: {
+      en: 'Founder & CEO of Nexa. Shares hard-won lessons on growth and early sales.',
+      az: 'Nexa-nın təsisçisi və CEO-su. Böyümə və erkən satış üzrə çətin qazanılmış dərsləri bölüşür.',
+    },
+    languages: ['Azerbaijani', 'English'],
+    sessionFormats: [{ en: '1:1 video call', az: '1:1 video zəng' }],
+    availability: { en: 'Limited slots', az: 'Məhdud yerlər' },
+    pricePerSession: 50,
+    rating: 4.7,
+    reviewCount: 29,
+  },
+];
+
+export function getMentor(id: string): Mentor | undefined {
+  return MENTORS.find((m) => m.id === id);
+}
